@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Submit Another Response</name>
+   <tag></tag>
+   <elementGuidId>f155b4d1-70b8-48fd-9f08-ae6108f202b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/div/div/div/div[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.chakra-button.css-4my61l</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>14e905ab-d55c-4f1e-97a9-138067c7dff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-button css-4my61l</value>
+      <webElementGuid>0137f589-7c37-4dd2-a927-ab9ef4561973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://form.gov.sg/64532b2493ceeb0012c6354f</value>
+      <webElementGuid>7c2c9da7-e2ea-4b09-b6a3-d8f22a4acefd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit another response</value>
+      <webElementGuid>92342c33-9cbf-422c-9ed0-c8e8d2d79f7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1brywh5&quot;]/div[@class=&quot;css-1l2oahx&quot;]/div[@class=&quot;css-5iccig&quot;]/div[@class=&quot;css-exzcdt&quot;]/div[@class=&quot;css-1hfy08p&quot;]/div[@class=&quot;chakra-container css-p4xb9w&quot;]/div[@class=&quot;css-1vr2anf&quot;]/div[@class=&quot;chakra-stack css-5v0uek&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-atuakq&quot;]/a[@class=&quot;chakra-button css-4my61l&quot;]</value>
+      <webElementGuid>8bac8794-e6ac-42bf-98bc-e89a5bb24f7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/div/div/div/div[3]/a</value>
+      <webElementGuid>24928709-bbc9-4018-8292-a3b610453214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Submit another response')]</value>
+      <webElementGuid>c9f04bcb-94eb-4552-9d85-d7178fd4ba7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you for filling out the form.'])[1]/following::a[1]</value>
+      <webElementGuid>63653d8e-f92f-4e07-b347-4a38d0a49f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have successfully submitted your response for Technical Test Form.'])[1]/following::a[1]</value>
+      <webElementGuid>4b952c5d-f1ad-421a-aa39-e3d23f7045b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How was your form filling experience today?'])[1]/preceding::a[1]</value>
+      <webElementGuid>27122a24-dff7-401e-96f3-b2d0b282e924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit feedback'])[1]/preceding::a[1]</value>
+      <webElementGuid>b1894d7a-7b2e-4880-95e0-01247475c8fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit another response']/parent::*</value>
+      <webElementGuid>93a191e5-6cec-4479-a258-6d03165ed3f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://form.gov.sg/64532b2493ceeb0012c6354f')]</value>
+      <webElementGuid>f43ed963-4eb5-418d-98df-0269a5940f17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>5be3e3e4-b511-4296-a45d-53c58f9a49b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://form.gov.sg/64532b2493ceeb0012c6354f' and (text() = 'Submit another response' or . = 'Submit another response')]</value>
+      <webElementGuid>7725f768-f1c9-45f9-ba09-0825c184a02d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

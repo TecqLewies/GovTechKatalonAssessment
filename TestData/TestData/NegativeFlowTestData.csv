@@ -1,0 +1,44 @@
+firstName,lastName,email,gender,mobileNumber,dateOfBirth,hobbiesSports,hobbiesReading,hobbiesMusic,fileType,location,address
+,,lewiesthor,F,91239123,17062050,FALSE,FALSE,FALSE,img,EAST,91239123
+1234,4321,lewiesthor,,9123912,17061850,TRUE,FALSE,TRUE,pdf,WEST,!@#$!@#$
+!@#$,$#@!,lewiesthor@gmail.com,M,9123912,19950617,FALSE,TRUE,FALSE,,EAST,
+,4321,lewiesthor@gmail,F,912391234,17061995,TRUE,TRUE,FALSE,,SOUTH,test address blk 1 #01-01
+Lewies Thor,$#@!,@gmail.com,,912391234,17062050,FALSE,TRUE,TRUE,pdf,NORTH,91239123
+!@#$,Thor,@gmail.com,M,text,17061850,FALSE,FALSE,FALSE,img,SOUTH,!@#$!@#$
+1234,,lewiesthor@gmail,F,text,19950617,TRUE,FALSE,TRUE,txt,NORTH,
+1234,$#@!,,,!@#$,,TRUE,TRUE,FALSE,img,CENTRAL,test address blk 1 #01-01
+!@#$,,,M,!@#$,17061995,FALSE,FALSE,TRUE,pdf,,91239123
+Lewies Thor,,lewiesthor@gmail.com,F,,,FALSE,FALSE,TRUE,,CENTRAL,!@#$!@#$
+1234,Thor,lewiesthor,,,17062050,FALSE,TRUE,FALSE,txt,,test address blk 1 #01-01
+!@#$,4321,lewiesthor@gmail,M,912391234,17062050,FALSE,FALSE,TRUE,img,WEST,
+,$#@!,@gmail.com,,text,17061995,TRUE,TRUE,TRUE,pdf,EAST,!@#$!@#$
+,Thor,@gmail.com,F,,19950617,TRUE,TRUE,FALSE,pdf,WEST,
+Lewies Thor,$#@!,,F,91239123,17061850,TRUE,TRUE,FALSE,txt,SOUTH,
+!@#$,4321,lewiesthor@gmail.com,,91239123,,TRUE,TRUE,FALSE,,NORTH,91239123
+Lewies Thor,,lewiesthor,M,9123912,,TRUE,TRUE,TRUE,pdf,SOUTH,test address blk 1 #01-01
+,Thor,lewiesthor@gmail,F,9123912,17061850,TRUE,TRUE,TRUE,,,91239123
+Lewies Thor,4321,lewiesthor@gmail,,!@#$,19950617,TRUE,TRUE,TRUE,img,NORTH,!@#$!@#$
+1234,Thor,,M,!@#$,17062050,TRUE,FALSE,TRUE,,EAST,test address blk 1 #01-01
+!@#$,$#@!,lewiesthor,M,,17061995,TRUE,FALSE,TRUE,txt,CENTRAL,
+,,@gmail.com,M,912391234,,TRUE,TRUE,TRUE,txt,CENTRAL,!@#$!@#$
+1234,4321,lewiesthor@gmail.com,,text,,TRUE,TRUE,TRUE,img,,
+!@#$,,@gmail.com,F,!@#$,17061850,TRUE,TRUE,TRUE,txt,WEST,test address blk 1 #01-01
+1234,4321,@gmail.com,M,91239123,19950617,TRUE,TRUE,TRUE,txt,,91239123
+,4321,,M,,17061995,TRUE,TRUE,TRUE,img,NORTH,test address blk 1 #01-01
+Lewies Thor,,,,text,17062050,TRUE,TRUE,TRUE,,WEST,!@#$!@#$
+1234,Thor,lewiesthor@gmail.com,M,912391234,17061850,TRUE,TRUE,TRUE,pdf,EAST,~91239123
+1234,$#@!,lewiesthor@gmail,M,9123912,17061995,TRUE,TRUE,TRUE,pdf,CENTRAL,91239123
+,Thor,lewiesthor@gmail.com,,,19950617,TRUE,TRUE,TRUE,txt,SOUTH,91239123
+Lewies Thor,Thor,lewiesthor@gmail,M,91239123,,TRUE,TRUE,TRUE,txt,EAST,!@#$!@#$
+Lewies Thor,Thor,lewiesthor,M,9123912,19950617,TRUE,TRUE,TRUE,,NORTH,test address blk 1 #01-01
+,Thor,lewiesthor@gmail.com,M,!@#$,17062050,TRUE,TRUE,TRUE,txt,SOUTH,
+Lewies Thor,$#@!,,M,912391234,19950617,TRUE,TRUE,TRUE,txt,,!@#$!@#$
+Lewies Thor,4321,lewiesthor,M,text,17061850,TRUE,TRUE,TRUE,txt,CENTRAL,91239123
+Lewies Thor,$#@!,@gmail.com,M,9123912,,TRUE,TRUE,TRUE,,WEST,91239123
+Lewies Thor,4321,lewiesthor@gmail,M,,17061850,TRUE,TRUE,TRUE,txt,EAST,test address blk 1 #01-01
+Lewies Thor,Thor,,M,9123912,17062050,TRUE,TRUE,TRUE,img,CENTRAL,test address blk 1 #01-01
+Lewies Thor,Thor,lewiesthor@gmail.com,M,91239123,19950617,TRUE,TRUE,TRUE,pdf,CENTRAL,test address blk 1 #01-01
+Lewies Thor,Thor,lewiesthor,M,912391234,17061850,TRUE,TRUE,TRUE,txt,NORTH,test address blk 1 #01-01
+1234,Thor,lewiesthor,M,!@#$,17061995,TRUE,TRUE,TRUE,txt,SOUTH,test address blk 1 #01-01
+Lewies Thor,Thor,lewiesthor@gmail.com,M,text,17061995,TRUE,TRUE,TRUE,txt,WEST,test address blk 1 #01-01
+Lewies Thor,Thor,lewiesthor@gmail.com,M,9123912,17061995,TRUE,TRUE,TRUE,txt,WEST,test address blk 1 #01-01

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Close browser</description>
+   <name>TestCaseTeardown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee3031de-f738-4091-90c9-4e64af25a276</testCaseGuid>
+</TestCaseEntity>

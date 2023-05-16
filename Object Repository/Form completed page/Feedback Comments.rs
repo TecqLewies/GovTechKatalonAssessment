@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Feedback Comments</name>
+   <tag></tag>
+   <elementGuidId>9a9bb795-473a-43fa-9957-d085b01f15b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@name='comment']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea[name=&quot;comment&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>9c4b5397-4b95-45a8-903e-1b8974dc457a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>comment</value>
+      <webElementGuid>8da6ed95-df43-421b-af29-d7ec8728ef37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Tell us more about your experience</value>
+      <webElementGuid>dfedbf98-c7bc-4f9b-9a0e-c760d601ee0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Tell us more about your experience</value>
+      <webElementGuid>e808503f-3dae-4c35-986d-e4758b233593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-textarea css-1pymk5v focus-visible</value>
+      <webElementGuid>82657bea-2f49-493c-8ea1-8d1c8b7a3b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1brywh5&quot;]/div[@class=&quot;css-1l2oahx&quot;]/div[@class=&quot;css-5iccig&quot;]/div[@class=&quot;css-exzcdt&quot;]/div[@class=&quot;css-1hfy08p&quot;]/div[@class=&quot;chakra-container css-p4xb9w&quot;]/div[@class=&quot;css-1vr2anf&quot;]/div[@class=&quot;chakra-stack css-5v0uek&quot;]/div[@class=&quot;css-1l4w6pd&quot;]/form[@class=&quot;css-1g61jdy&quot;]/textarea[@class=&quot;chakra-textarea css-1pymk5v focus-visible&quot;]</value>
+      <webElementGuid>93e62fbd-2b64-4641-80ff-0ff236d7c1d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@name='comment']</value>
+      <webElementGuid>4a93b494-d3c1-4543-84dd-ff1ceca6840d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/div/div/div[3]/form/textarea</value>
+      <webElementGuid>1ef468a8-7d10-4f24-bf89-febc39f47d56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>b5e52217-d9fb-4376-b0b8-a5b1cde59a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'comment' and @placeholder = 'Tell us more about your experience']</value>
+      <webElementGuid>8a77b0a9-49f1-41ca-86c6-265f5fef045d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

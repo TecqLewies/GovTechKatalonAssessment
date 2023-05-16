@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Gender Male Button</name>
+   <tag></tag>
+   <elementGuidId>63661925-a971-4c45-b37c-6b282c971237</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[4]/div/div/form/div/div/div[4]/div[2]/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.chakra-radio__control.css-15lfx48</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f6b9a47a-178a-48ef-a1b7-e15438640c0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-radio__control css-15lfx48</value>
+      <webElementGuid>5aa0c98c-f996-4b26-abe9-c78272dfce3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2107e5be-2359-4b41-babd-da131b15d8fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1brywh5&quot;]/div[@class=&quot;css-1l2oahx&quot;]/div[@class=&quot;css-5iccig&quot;]/div[@class=&quot;css-exzcdt&quot;]/div[@class=&quot;css-1s5ocgd&quot;]/form[1]/div[@class=&quot;css-h9t2jw&quot;]/div[@class=&quot;chakra-stack css-16g1uvh&quot;]/div[@class=&quot;chakra-form-control css-1kxonj9&quot;]/div[@class=&quot;chakra-radio-group css-0&quot;]/label[@class=&quot;chakra-radio css-k9811q&quot;]/span[@class=&quot;chakra-radio__control css-15lfx48&quot;]</value>
+      <webElementGuid>5c07a71f-d7ca-4298-95d0-46ee8f146252</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[4]/div/div/form/div/div/div[4]/div[2]/label/span</value>
+      <webElementGuid>798300b0-ced9-43ce-b8a0-7e02dfd95acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>fa2e04e0-224e-48ef-8392-4d718d03b579</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

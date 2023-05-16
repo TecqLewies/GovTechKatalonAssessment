@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>North</name>
+   <tag></tag>
+   <elementGuidId>3920e84a-ef7c-47c3-a56b-444ff7b2c57f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='downshift-0-item-0']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.chakra-stack.css-ejdiwr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f8c0cc43-adc4-4d90-ab7a-9121d72fd561</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-stack css-ejdiwr</value>
+      <webElementGuid>eb7ac29d-7c43-403e-9b4b-5f96a8c27c83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>North</value>
+      <webElementGuid>4dd00185-69e5-4a28-b095-e1217d779cd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;downshift-0-item-0&quot;)/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;chakra-stack css-ejdiwr&quot;]</value>
+      <webElementGuid>8fad6e90-5bb8-45fd-b6c2-df598e51c501</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='downshift-0-item-0']/div/div</value>
+      <webElementGuid>7d80252c-6046-4215-8282-0154cd90f9f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[10]</value>
+      <webElementGuid>b22d3297-7642-4bfa-bd67-d8c049257ed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::div[10]</value>
+      <webElementGuid>72d76101-cce5-42f5-914e-e1e14f9e979f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='South'])[1]/preceding::div[1]</value>
+      <webElementGuid>45fe256a-50e5-4c2e-9e2c-f9491e74b004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div</value>
+      <webElementGuid>006ca970-6518-40df-872b-a15fec3b98a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'North' or . = 'North')]</value>
+      <webElementGuid>c2d1666b-9a3e-48c2-8138-7c78744931b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

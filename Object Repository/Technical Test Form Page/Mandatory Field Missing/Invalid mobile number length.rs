@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Invalid mobile number length</name>
+   <tag></tag>
+   <elementGuidId>aa73090b-de52-43a2-b1da-b9d3fe9f9a5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1ag8dug</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='6453527335eb0c00128fbabf-feedback']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c98f9a4e-45f7-4bb6-9645-309add487b4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1ag8dug</value>
+      <webElementGuid>45a3db00-a567-46bc-a632-5dcd4f2af945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please enter a valid mobile number</value>
+      <webElementGuid>600b2c28-073a-47de-8c28-a095f92bf86d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;6453527335eb0c00128fbabf-feedback&quot;)/div[@class=&quot;css-1ag8dug&quot;]</value>
+      <webElementGuid>179b918c-f627-4d60-a311-129d3c1cb9e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='6453527335eb0c00128fbabf-feedback']/div</value>
+      <webElementGuid>ffd6dc31-6bc9-4bd0-ab9a-52696a91f8af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MyInfo'])[5]/following::div[4]</value>
+      <webElementGuid>0ae4f0f9-f425-4cb8-9f55-17303c0e15ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MyInfo'])[6]/preceding::div[3]</value>
+      <webElementGuid>e8e860c4-498d-49b9-b1a8-ee4863143ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please enter a valid mobile number']/parent::*</value>
+      <webElementGuid>63596cfb-132f-4609-a3d5-bb8a822b8f7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[3]/div</value>
+      <webElementGuid>fb2e2f13-c4d6-40d6-ac39-d728c84f2ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Please enter a valid mobile number' or . = 'Please enter a valid mobile number')]</value>
+      <webElementGuid>888a4b55-fc75-4873-90cf-0d809769c64d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

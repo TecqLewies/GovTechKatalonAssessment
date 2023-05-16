@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>3 star</name>
+   <tag></tag>
+   <elementGuidId>b7cd28bc-49dd-4d4a-a309-6b3185c64c8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='How was your form filling experience today?'])[1]/following::*[name()='svg'][3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>aa198e89-052f-4c8a-a7c9-74f377a8b4be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>9ec41aa7-728a-49e9-8859-0ff2a589ea9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>430ab4e3-b9dc-417e-aae2-20413be840c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>ed3b040c-a875-4b95-b42f-89d56525083e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>c5d562e6-7fc7-464e-a403-cb1c91f6b412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b20729da-d2c2-49ee-b02c-5525cb222fc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-icon css-10isejs</value>
+      <webElementGuid>45a23555-bd55-4f89-9562-ee315cf07e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1ddd8c14-cdf7-464a-b210-9f0c0004083a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1brywh5&quot;]/div[@class=&quot;css-1l2oahx&quot;]/div[@class=&quot;css-5iccig&quot;]/div[@class=&quot;css-exzcdt&quot;]/div[@class=&quot;css-1hfy08p&quot;]/div[@class=&quot;chakra-container css-p4xb9w&quot;]/div[@class=&quot;css-1vr2anf&quot;]/div[@class=&quot;chakra-stack css-5v0uek&quot;]/div[@class=&quot;css-1l4w6pd&quot;]/form[@class=&quot;css-1g61jdy&quot;]/div[@class=&quot;chakra-form-control css-1kxonj9&quot;]/div[@class=&quot;css-jh8js6&quot;]/fieldset[@class=&quot;chakra-stack css-hf6v3s&quot;]/div[@class=&quot;chakra-stack css-1h3nfwc&quot;]/div[@class=&quot;chakra-stack css-1sigv9r&quot;]/div[@class=&quot;css-c25bi4&quot;]/label[@class=&quot;css-19hndne&quot;]/svg[@class=&quot;chakra-icon css-10isejs&quot;]</value>
+      <webElementGuid>56879ade-375f-4c2b-b9bc-c2c0344edd01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How was your form filling experience today?'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>7831e68a-ab21-4882-ba03-85c63d94f242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit another response'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>e8a51a56-36bc-4de7-8aac-1c248f3a5f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit feedback'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>b7691ed4-bf04-47c9-ad2b-d0b30a07362b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guide'])[1]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>5a119014-4101-4172-8586-45e8720906ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

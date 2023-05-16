@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Hobbies Music</name>
+   <tag></tag>
+   <elementGuidId>5d4e6de5-549f-4d29-9d80-9d6d8b8c71de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[4]/div/div/form/div/div/div[7]/div[2]/label[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>112538f3-f786-48b3-b2c8-9b22ea16b0cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-checkbox css-ujgl6v</value>
+      <webElementGuid>4de7ee26-dca7-491b-adeb-b091ad682f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Music</value>
+      <webElementGuid>c7bccca7-a0f1-494b-9359-c572b8384920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1brywh5&quot;]/div[@class=&quot;css-1l2oahx&quot;]/div[@class=&quot;css-5iccig&quot;]/div[@class=&quot;css-exzcdt&quot;]/div[@class=&quot;css-1s5ocgd&quot;]/form[1]/div[@class=&quot;css-h9t2jw&quot;]/div[@class=&quot;chakra-stack css-16g1uvh&quot;]/div[@class=&quot;chakra-form-control css-1kxonj9&quot;]/div[@class=&quot;css-0&quot;]/label[@class=&quot;chakra-checkbox css-ujgl6v&quot;]</value>
+      <webElementGuid>29de1797-8715-4b6a-95c7-063bb08665da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[4]/div/div/form/div/div/div[7]/div[2]/label[2]</value>
+      <webElementGuid>487b1bf3-e144-49d5-8493-5e532c442e31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sports'])[1]/following::label[1]</value>
+      <webElementGuid>94c7aacc-793b-4d06-b5f5-776cf2d70b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MyInfo'])[7]/following::label[2]</value>
+      <webElementGuid>1fdf18d7-72b3-4e42-974a-8cda61c1756e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reading'])[1]/preceding::label[1]</value>
+      <webElementGuid>7b0f54f0-a6c0-434a-b674-7009d7ea48f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/label[2]</value>
+      <webElementGuid>68e039a8-8e8b-4642-867f-84bff9dfaf94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Music' or . = 'Music')]</value>
+      <webElementGuid>3718fe98-305e-412b-b7c1-1e09537ecc84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

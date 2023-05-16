@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Hobbies Reading</name>
+   <tag></tag>
+   <elementGuidId>f3aef60a-10e3-4362-82c2-491b64ea97d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[4]/div/div/form/div/div/div[7]/div[2]/label[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f1a35c78-3744-4414-bfd8-bb49b816beae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-checkbox css-ujgl6v</value>
+      <webElementGuid>953e88ac-9508-4fbc-bd8b-c0d2609b2151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reading</value>
+      <webElementGuid>431827c4-956b-4d45-81d7-b235a3a68d7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1brywh5&quot;]/div[@class=&quot;css-1l2oahx&quot;]/div[@class=&quot;css-5iccig&quot;]/div[@class=&quot;css-exzcdt&quot;]/div[@class=&quot;css-1s5ocgd&quot;]/form[1]/div[@class=&quot;css-h9t2jw&quot;]/div[@class=&quot;chakra-stack css-16g1uvh&quot;]/div[@class=&quot;chakra-form-control css-1kxonj9&quot;]/div[@class=&quot;css-0&quot;]/label[@class=&quot;chakra-checkbox css-ujgl6v&quot;]</value>
+      <webElementGuid>f5c1d016-39cd-40e5-9a05-6be31031f363</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[4]/div/div/form/div/div/div[7]/div[2]/label[3]</value>
+      <webElementGuid>bd5f6e14-8982-4c86-8777-f9a55e6e3c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Music'])[1]/following::label[1]</value>
+      <webElementGuid>1550cb73-20d2-4180-a59e-7d270d7f1a0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sports'])[1]/following::label[2]</value>
+      <webElementGuid>59a7fa23-c092-42d6-9ae5-ff26daf5c09f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[3]</value>
+      <webElementGuid>89114037-8f4f-4c8a-8adb-080c94ef076c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Reading' or . = 'Reading')]</value>
+      <webElementGuid>7590eddd-2988-4175-9028-6706f0357d24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

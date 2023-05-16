@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "983B4E96FA6E8DF6D85C2958F55AC991",
+  "keywordClasses": [
+    {
+      "name": "utilities.Teardown",
+      "keywordMethods": [
+        {
+          "name": "closeBrowser",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

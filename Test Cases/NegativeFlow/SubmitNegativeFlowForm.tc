@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mandatory Fields for negative flow</description>
+   <name>SubmitNegativeFlowForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92583157-fb1a-458c-b579-d852f951d04a</testCaseGuid>
+</TestCaseEntity>

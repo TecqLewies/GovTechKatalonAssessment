@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "3F1BBE9D058DB70CC8D09B4C275D67A1",
+  "keywordClasses": [
+    {
+      "name": "utilities.Setup",
+      "keywordMethods": [
+        {
+          "name": "testCaseSetup",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
