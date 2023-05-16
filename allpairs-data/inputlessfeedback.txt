@@ -1,0 +1,7 @@
+firstName	lastName	email	gender	mobileNumber	dateOfBirth	hobbiesSports	hobbiesReading	hobbiesMusic	fileType	location	address
+Lewies Thor	Thor	lewiesthor@gmail.com	M	91239123	17061995	TRUE	TRUE	TRUE	txt	WEST	test address blk 1 #01-01
+empty	empty	lewiesthor	F	9123912	17062050	FALSE	FALSE	FALSE	img	EAST	91239123
+1234	4321	lewiesthor@gmail	empty	912391234	17061850				pdf	SOUTH	!@#$!@#$
+!@#$	$#@!	@gmail.com		text	19950617				empty	NORTH	empty
+		empty		!@#$	empty					CENTRAL	
+				empty						empty	

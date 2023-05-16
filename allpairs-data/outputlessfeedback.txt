@@ -1,0 +1,1051 @@
+
+TEST CASES
+case	firstName	lastName	email	gender	mobileNumber	dateOfBirth	hobbiesSports	hobbiesReading	hobbiesMusic	fileType	location	address	pairings
+1	Lewies Thor	Thor	lewiesthor@gmail.com	M	91239123	17061995	TRUE	TRUE	TRUE	txt	WEST	test address blk 1 #01-01	66
+2	empty	empty	lewiesthor	F	91239123	17062050	FALSE	FALSE	FALSE	img	EAST	91239123	66
+3	1234	4321	lewiesthor	empty	9123912	17061850	TRUE	FALSE	TRUE	pdf	WEST	!@#$!@#$	62
+4	!@#$	$#@!	lewiesthor@gmail.com	M	9123912	19950617	FALSE	TRUE	FALSE	empty	EAST	empty	60
+5	empty	4321	lewiesthor@gmail	F	912391234	17061995	TRUE	TRUE	FALSE	empty	SOUTH	test address blk 1 #01-01	53
+6	Lewies Thor	$#@!	@gmail.com	empty	912391234	17062050	FALSE	TRUE	TRUE	pdf	NORTH	91239123	53
+7	!@#$	Thor	@gmail.com	M	text	17061850	FALSE	FALSE	FALSE	img	SOUTH	!@#$!@#$	49
+8	1234	empty	lewiesthor@gmail	F	text	19950617	TRUE	FALSE	TRUE	txt	NORTH	empty	49
+9	1234	$#@!	empty	empty	!@#$	empty	TRUE	TRUE	FALSE	img	CENTRAL	test address blk 1 #01-01	52
+10	!@#$	empty	empty	M	!@#$	17061995	FALSE	FALSE	TRUE	pdf	empty	91239123	43
+11	Lewies Thor	empty	lewiesthor@gmail.com	F	empty	empty	FALSE	FALSE	TRUE	empty	CENTRAL	!@#$!@#$	44
+12	1234	Thor	lewiesthor	empty	empty	17062050	FALSE	TRUE	FALSE	txt	empty	test address blk 1 #01-01	34
+13	!@#$	4321	lewiesthor@gmail	M	912391234	17062050	FALSE	FALSE	TRUE	img	WEST	empty	28
+14	empty	$#@!	@gmail.com	empty	text	17061995	TRUE	TRUE	TRUE	pdf	EAST	!@#$!@#$	27
+15	empty	Thor	@gmail.com	F	empty	19950617	TRUE	~FALSE	FALSE	pdf	WEST	empty	26
+16	Lewies Thor	$#@!	empty	F	91239123	17061850	~FALSE	TRUE	FALSE	txt	SOUTH	empty	25
+17	!@#$	4321	lewiesthor@gmail.com	empty	91239123	empty	TRUE	~FALSE	FALSE	empty	NORTH	91239123	24
+18	Lewies Thor	empty	lewiesthor	M	9123912	empty	~TRUE	TRUE	TRUE	pdf	SOUTH	test address blk 1 #01-01	18
+19	empty	Thor	lewiesthor@gmail	F	9123912	17061850	TRUE	~TRUE	~TRUE	empty	empty	91239123	20
+20	Lewies Thor	4321	lewiesthor@gmail	empty	!@#$	19950617	~FALSE	~TRUE	~FALSE	img	NORTH	!@#$!@#$	18
+21	1234	Thor	empty	M	!@#$	17062050	TRUE	FALSE	~TRUE	empty	EAST	test address blk 1 #01-01	16
+22	!@#$	$#@!	lewiesthor	M	empty	17061995	~TRUE	FALSE	~TRUE	txt	CENTRAL	empty	17
+23	empty	empty	@gmail.com	M	912391234	empty	~FALSE	~TRUE	~FALSE	txt	CENTRAL	!@#$!@#$	15
+24	1234	4321	lewiesthor@gmail.com	empty	text	empty	~FALSE	~TRUE	~FALSE	img	empty	empty	13
+25	!@#$	empty	@gmail.com	F	!@#$	17061850	~FALSE	~TRUE	~FALSE	txt	WEST	test address blk 1 #01-01	11
+26	1234	4321	@gmail.com	~M	91239123	19950617	~TRUE	~FALSE	~TRUE	txt	empty	91239123	12
+27	empty	4321	empty	M	empty	17061995	~FALSE	~FALSE	~TRUE	img	NORTH	test address blk 1 #01-01	12
+28	Lewies Thor	empty	empty	empty	text	17062050	~TRUE	~FALSE	~FALSE	empty	WEST	!@#$!@#$	10
+29	1234	Thor	lewiesthor@gmail.com	~F	912391234	17061850	~TRUE	~FALSE	~FALSE	pdf	EAST	~91239123	8
+30	1234	$#@!	lewiesthor@gmail	~F	9123912	17061995	~FALSE	~FALSE	~FALSE	pdf	CENTRAL	91239123	8
+31	empty	~$#@!	lewiesthor@gmail.com	empty	empty	19950617	~TRUE	~TRUE	~TRUE	~img	SOUTH	91239123	7
+32	Lewies Thor	Thor	lewiesthor@gmail	~empty	91239123	empty	~FALSE	~FALSE	~TRUE	txt	EAST	!@#$!@#$	8
+33	~!@#$	Thor	lewiesthor	~F	9123912	19950617	~FALSE	~TRUE	~TRUE	empty	NORTH	test address blk 1 #01-01	6
+34	empty	~empty	lewiesthor@gmail.com	~empty	!@#$	17062050	~TRUE	~FALSE	~FALSE	~txt	SOUTH	empty	6
+35	Lewies Thor	$#@!	empty	~F	912391234	19950617	~TRUE	~TRUE	~FALSE	~img	empty	!@#$!@#$	7
+36	~Lewies Thor	4321	lewiesthor	~M	text	17061850	~FALSE	~TRUE	~TRUE	~empty	CENTRAL	91239123	5
+37	~1234	$#@!	@gmail.com	~empty	9123912	empty	~FALSE	~FALSE	~FALSE	empty	WEST	91239123	5
+38	~!@#$	4321	lewiesthor@gmail	~empty	empty	17061850	~TRUE	~TRUE	~FALSE	~pdf	EAST	~test address blk 1 #01-01	4
+39	~!@#$	Thor	empty	~empty	9123912	17062050	~TRUE	~TRUE	~TRUE	img	CENTRAL	~empty	5
+40	~1234	~empty	~@gmail.com	~M	91239123	19950617	~FALSE	~FALSE	~TRUE	pdf	CENTRAL	~test address blk 1 #01-01	3
+41	~empty	~$#@!	lewiesthor	~M	912391234	17061850	~TRUE	~FALSE	~FALSE	~txt	NORTH	~empty	2
+42	1234	~4321	lewiesthor	~F	!@#$	~17061995	~FALSE	~TRUE	~TRUE	~empty	SOUTH	~!@#$!@#$	2
+43	~empty	~$#@!	~empty	~F	text	~empty	~FALSE	~FALSE	~TRUE	~pdf	~WEST	test address blk 1 #01-01	1
+44	~Lewies Thor	~4321	~@gmail.com	~empty	9123912	~17061995	~TRUE	~TRUE	~FALSE	txt	~SOUTH	~empty	1
+
+PAIRING DETAILS
+var1	var2	value1	value2	appearances	cases
+mobileNumber	location	91239123	WEST	1	1
+mobileNumber	location	91239123	EAST	2	2, 32
+mobileNumber	location	91239123	SOUTH	1	16
+mobileNumber	location	91239123	NORTH	1	17
+mobileNumber	location	91239123	CENTRAL	1	40
+mobileNumber	location	91239123	empty	1	26
+mobileNumber	location	9123912	WEST	2	3, 37
+mobileNumber	location	9123912	EAST	1	4
+mobileNumber	location	9123912	SOUTH	2	18, 44
+mobileNumber	location	9123912	NORTH	1	33
+mobileNumber	location	9123912	CENTRAL	2	30, 39
+mobileNumber	location	9123912	empty	1	19
+mobileNumber	location	912391234	WEST	1	13
+mobileNumber	location	912391234	EAST	1	29
+mobileNumber	location	912391234	SOUTH	1	5
+mobileNumber	location	912391234	NORTH	2	6, 41
+mobileNumber	location	912391234	CENTRAL	1	23
+mobileNumber	location	912391234	empty	1	35
+mobileNumber	location	text	WEST	2	28, 43
+mobileNumber	location	text	EAST	1	14
+mobileNumber	location	text	SOUTH	1	7
+mobileNumber	location	text	NORTH	1	8
+mobileNumber	location	text	CENTRAL	1	36
+mobileNumber	location	text	empty	1	24
+mobileNumber	location	!@#$	WEST	1	25
+mobileNumber	location	!@#$	EAST	1	21
+mobileNumber	location	!@#$	SOUTH	2	34, 42
+mobileNumber	location	!@#$	NORTH	1	20
+mobileNumber	location	!@#$	CENTRAL	1	9
+mobileNumber	location	!@#$	empty	1	10
+mobileNumber	location	empty	WEST	1	15
+mobileNumber	location	empty	EAST	1	38
+mobileNumber	location	empty	SOUTH	1	31
+mobileNumber	location	empty	NORTH	1	27
+mobileNumber	location	empty	CENTRAL	2	11, 22
+mobileNumber	location	empty	empty	1	12
+mobileNumber	email	91239123	lewiesthor@gmail.com	2	1, 17
+mobileNumber	email	91239123	lewiesthor	1	2
+mobileNumber	email	91239123	lewiesthor@gmail	1	32
+mobileNumber	email	91239123	@gmail.com	2	26, 40
+mobileNumber	email	91239123	empty	1	16
+mobileNumber	email	9123912	lewiesthor@gmail.com	1	4
+mobileNumber	email	9123912	lewiesthor	3	3, 18, 33
+mobileNumber	email	9123912	lewiesthor@gmail	2	19, 30
+mobileNumber	email	9123912	@gmail.com	2	37, 44
+mobileNumber	email	9123912	empty	1	39
+mobileNumber	email	912391234	lewiesthor@gmail.com	1	29
+mobileNumber	email	912391234	lewiesthor	1	41
+mobileNumber	email	912391234	lewiesthor@gmail	2	5, 13
+mobileNumber	email	912391234	@gmail.com	2	6, 23
+mobileNumber	email	912391234	empty	1	35
+mobileNumber	email	text	lewiesthor@gmail.com	1	24
+mobileNumber	email	text	lewiesthor	1	36
+mobileNumber	email	text	lewiesthor@gmail	1	8
+mobileNumber	email	text	@gmail.com	2	7, 14
+mobileNumber	email	text	empty	2	28, 43
+mobileNumber	email	!@#$	lewiesthor@gmail.com	1	34
+mobileNumber	email	!@#$	lewiesthor	1	42
+mobileNumber	email	!@#$	lewiesthor@gmail	1	20
+mobileNumber	email	!@#$	@gmail.com	1	25
+mobileNumber	email	!@#$	empty	3	9, 10, 21
+mobileNumber	email	empty	lewiesthor@gmail.com	2	11, 31
+mobileNumber	email	empty	lewiesthor	2	12, 22
+mobileNumber	email	empty	lewiesthor@gmail	1	38
+mobileNumber	email	empty	@gmail.com	1	15
+mobileNumber	email	empty	empty	1	27
+mobileNumber	dateOfBirth	91239123	17061995	1	1
+mobileNumber	dateOfBirth	91239123	17062050	1	2
+mobileNumber	dateOfBirth	91239123	17061850	1	16
+mobileNumber	dateOfBirth	91239123	19950617	2	26, 40
+mobileNumber	dateOfBirth	91239123	empty	2	17, 32
+mobileNumber	dateOfBirth	9123912	17061995	2	30, 44
+mobileNumber	dateOfBirth	9123912	17062050	1	39
+mobileNumber	dateOfBirth	9123912	17061850	2	3, 19
+mobileNumber	dateOfBirth	9123912	19950617	2	4, 33
+mobileNumber	dateOfBirth	9123912	empty	2	18, 37
+mobileNumber	dateOfBirth	912391234	17061995	1	5
+mobileNumber	dateOfBirth	912391234	17062050	2	6, 13
+mobileNumber	dateOfBirth	912391234	17061850	2	29, 41
+mobileNumber	dateOfBirth	912391234	19950617	1	35
+mobileNumber	dateOfBirth	912391234	empty	1	23
+mobileNumber	dateOfBirth	text	17061995	1	14
+mobileNumber	dateOfBirth	text	17062050	1	28
+mobileNumber	dateOfBirth	text	17061850	2	7, 36
+mobileNumber	dateOfBirth	text	19950617	1	8
+mobileNumber	dateOfBirth	text	empty	2	24, 43
+mobileNumber	dateOfBirth	!@#$	17061995	2	10, 42
+mobileNumber	dateOfBirth	!@#$	17062050	2	21, 34
+mobileNumber	dateOfBirth	!@#$	17061850	1	25
+mobileNumber	dateOfBirth	!@#$	19950617	1	20
+mobileNumber	dateOfBirth	!@#$	empty	1	9
+mobileNumber	dateOfBirth	empty	17061995	2	22, 27
+mobileNumber	dateOfBirth	empty	17062050	1	12
+mobileNumber	dateOfBirth	empty	17061850	1	38
+mobileNumber	dateOfBirth	empty	19950617	2	15, 31
+mobileNumber	dateOfBirth	empty	empty	1	11
+mobileNumber	firstName	91239123	Lewies Thor	3	1, 16, 32
+mobileNumber	firstName	91239123	empty	1	2
+mobileNumber	firstName	91239123	1234	2	26, 40
+mobileNumber	firstName	91239123	!@#$	1	17
+mobileNumber	firstName	9123912	Lewies Thor	2	18, 44
+mobileNumber	firstName	9123912	empty	1	19
+mobileNumber	firstName	9123912	1234	3	3, 30, 37
+mobileNumber	firstName	9123912	!@#$	3	4, 33, 39
+mobileNumber	firstName	912391234	Lewies Thor	2	6, 35
+mobileNumber	firstName	912391234	empty	3	5, 23, 41
+mobileNumber	firstName	912391234	1234	1	29
+mobileNumber	firstName	912391234	!@#$	1	13
+mobileNumber	firstName	text	Lewies Thor	2	28, 36
+mobileNumber	firstName	text	empty	2	14, 43
+mobileNumber	firstName	text	1234	2	8, 24
+mobileNumber	firstName	text	!@#$	1	7
+mobileNumber	firstName	!@#$	Lewies Thor	1	20
+mobileNumber	firstName	!@#$	empty	1	34
+mobileNumber	firstName	!@#$	1234	3	9, 21, 42
+mobileNumber	firstName	!@#$	!@#$	2	10, 25
+mobileNumber	firstName	empty	Lewies Thor	1	11
+mobileNumber	firstName	empty	empty	3	15, 27, 31
+mobileNumber	firstName	empty	1234	1	12
+mobileNumber	firstName	empty	!@#$	2	22, 38
+mobileNumber	lastName	91239123	Thor	2	1, 32
+mobileNumber	lastName	91239123	empty	2	2, 40
+mobileNumber	lastName	91239123	4321	2	17, 26
+mobileNumber	lastName	91239123	$#@!	1	16
+mobileNumber	lastName	9123912	Thor	3	19, 33, 39
+mobileNumber	lastName	9123912	empty	1	18
+mobileNumber	lastName	9123912	4321	2	3, 44
+mobileNumber	lastName	9123912	$#@!	3	4, 30, 37
+mobileNumber	lastName	912391234	Thor	1	29
+mobileNumber	lastName	912391234	empty	1	23
+mobileNumber	lastName	912391234	4321	2	5, 13
+mobileNumber	lastName	912391234	$#@!	3	6, 35, 41
+mobileNumber	lastName	text	Thor	1	7
+mobileNumber	lastName	text	empty	2	8, 28
+mobileNumber	lastName	text	4321	2	24, 36
+mobileNumber	lastName	text	$#@!	2	14, 43
+mobileNumber	lastName	!@#$	Thor	1	21
+mobileNumber	lastName	!@#$	empty	3	10, 25, 34
+mobileNumber	lastName	!@#$	4321	2	20, 42
+mobileNumber	lastName	!@#$	$#@!	1	9
+mobileNumber	lastName	empty	Thor	2	12, 15
+mobileNumber	lastName	empty	empty	1	11
+mobileNumber	lastName	empty	4321	2	27, 38
+mobileNumber	lastName	empty	$#@!	2	22, 31
+mobileNumber	fileType	91239123	txt	4	1, 16, 26, 32
+mobileNumber	fileType	91239123	img	1	2
+mobileNumber	fileType	91239123	pdf	1	40
+mobileNumber	fileType	91239123	empty	1	17
+mobileNumber	fileType	9123912	txt	1	44
+mobileNumber	fileType	9123912	img	1	39
+mobileNumber	fileType	9123912	pdf	3	3, 18, 30
+mobileNumber	fileType	9123912	empty	4	4, 19, 33, 37
+mobileNumber	fileType	912391234	txt	2	23, 41
+mobileNumber	fileType	912391234	img	2	13, 35
+mobileNumber	fileType	912391234	pdf	2	6, 29
+mobileNumber	fileType	912391234	empty	1	5
+mobileNumber	fileType	text	txt	1	8
+mobileNumber	fileType	text	img	2	7, 24
+mobileNumber	fileType	text	pdf	2	14, 43
+mobileNumber	fileType	text	empty	2	28, 36
+mobileNumber	fileType	!@#$	txt	2	25, 34
+mobileNumber	fileType	!@#$	img	2	9, 20
+mobileNumber	fileType	!@#$	pdf	1	10
+mobileNumber	fileType	!@#$	empty	2	21, 42
+mobileNumber	fileType	empty	txt	2	12, 22
+mobileNumber	fileType	empty	img	2	27, 31
+mobileNumber	fileType	empty	pdf	2	15, 38
+mobileNumber	fileType	empty	empty	1	11
+mobileNumber	address	91239123	test address blk 1 #01-01	2	1, 40
+mobileNumber	address	91239123	91239123	3	2, 17, 26
+mobileNumber	address	91239123	!@#$!@#$	1	32
+mobileNumber	address	91239123	empty	1	16
+mobileNumber	address	9123912	test address blk 1 #01-01	2	18, 33
+mobileNumber	address	9123912	91239123	3	19, 30, 37
+mobileNumber	address	9123912	!@#$!@#$	1	3
+mobileNumber	address	9123912	empty	3	4, 39, 44
+mobileNumber	address	912391234	test address blk 1 #01-01	1	5
+mobileNumber	address	912391234	91239123	2	6, 29
+mobileNumber	address	912391234	!@#$!@#$	2	23, 35
+mobileNumber	address	912391234	empty	2	13, 41
+mobileNumber	address	text	test address blk 1 #01-01	1	43
+mobileNumber	address	text	91239123	1	36
+mobileNumber	address	text	!@#$!@#$	3	7, 14, 28
+mobileNumber	address	text	empty	2	8, 24
+mobileNumber	address	!@#$	test address blk 1 #01-01	3	9, 21, 25
+mobileNumber	address	!@#$	91239123	1	10
+mobileNumber	address	!@#$	!@#$!@#$	2	20, 42
+mobileNumber	address	!@#$	empty	1	34
+mobileNumber	address	empty	test address blk 1 #01-01	3	12, 27, 38
+mobileNumber	address	empty	91239123	1	31
+mobileNumber	address	empty	!@#$!@#$	1	11
+mobileNumber	address	empty	empty	2	15, 22
+mobileNumber	gender	91239123	M	3	1, 26, 40
+mobileNumber	gender	91239123	F	2	2, 16
+mobileNumber	gender	91239123	empty	2	17, 32
+mobileNumber	gender	9123912	M	2	4, 18
+mobileNumber	gender	9123912	F	3	19, 30, 33
+mobileNumber	gender	9123912	empty	4	3, 37, 39, 44
+mobileNumber	gender	912391234	M	3	13, 23, 41
+mobileNumber	gender	912391234	F	3	5, 29, 35
+mobileNumber	gender	912391234	empty	1	6
+mobileNumber	gender	text	M	2	7, 36
+mobileNumber	gender	text	F	2	8, 43
+mobileNumber	gender	text	empty	3	14, 24, 28
+mobileNumber	gender	!@#$	M	2	10, 21
+mobileNumber	gender	!@#$	F	2	25, 42
+mobileNumber	gender	!@#$	empty	3	9, 20, 34
+mobileNumber	gender	empty	M	2	22, 27
+mobileNumber	gender	empty	F	2	11, 15
+mobileNumber	gender	empty	empty	3	12, 31, 38
+mobileNumber	hobbiesSports	91239123	TRUE	3	1, 17, 26
+mobileNumber	hobbiesSports	91239123	FALSE	4	2, 16, 32, 40
+mobileNumber	hobbiesSports	9123912	TRUE	5	3, 18, 19, 39, 44
+mobileNumber	hobbiesSports	9123912	FALSE	4	4, 30, 33, 37
+mobileNumber	hobbiesSports	912391234	TRUE	4	5, 29, 35, 41
+mobileNumber	hobbiesSports	912391234	FALSE	3	6, 13, 23
+mobileNumber	hobbiesSports	text	TRUE	3	8, 14, 28
+mobileNumber	hobbiesSports	text	FALSE	4	7, 24, 36, 43
+mobileNumber	hobbiesSports	!@#$	TRUE	3	9, 21, 34
+mobileNumber	hobbiesSports	!@#$	FALSE	4	10, 20, 25, 42
+mobileNumber	hobbiesSports	empty	TRUE	4	15, 22, 31, 38
+mobileNumber	hobbiesSports	empty	FALSE	3	11, 12, 27
+mobileNumber	hobbiesReading	91239123	TRUE	2	1, 16
+mobileNumber	hobbiesReading	91239123	FALSE	5	2, 17, 26, 32, 40
+mobileNumber	hobbiesReading	9123912	TRUE	6	4, 18, 19, 33, 39, 44
+mobileNumber	hobbiesReading	9123912	FALSE	3	3, 30, 37
+mobileNumber	hobbiesReading	912391234	TRUE	4	5, 6, 23, 35
+mobileNumber	hobbiesReading	912391234	FALSE	3	13, 29, 41
+mobileNumber	hobbiesReading	text	TRUE	3	14, 24, 36
+mobileNumber	hobbiesReading	text	FALSE	4	7, 8, 28, 43
+mobileNumber	hobbiesReading	!@#$	TRUE	4	9, 20, 25, 42
+mobileNumber	hobbiesReading	!@#$	FALSE	3	10, 21, 34
+mobileNumber	hobbiesReading	empty	TRUE	3	12, 31, 38
+mobileNumber	hobbiesReading	empty	FALSE	4	11, 15, 22, 27
+mobileNumber	hobbiesMusic	91239123	TRUE	4	1, 26, 32, 40
+mobileNumber	hobbiesMusic	91239123	FALSE	3	2, 16, 17
+mobileNumber	hobbiesMusic	9123912	TRUE	5	3, 18, 19, 33, 39
+mobileNumber	hobbiesMusic	9123912	FALSE	4	4, 30, 37, 44
+mobileNumber	hobbiesMusic	912391234	TRUE	2	6, 13
+mobileNumber	hobbiesMusic	912391234	FALSE	5	5, 23, 29, 35, 41
+mobileNumber	hobbiesMusic	text	TRUE	4	8, 14, 36, 43
+mobileNumber	hobbiesMusic	text	FALSE	3	7, 24, 28
+mobileNumber	hobbiesMusic	!@#$	TRUE	3	10, 21, 42
+mobileNumber	hobbiesMusic	!@#$	FALSE	4	9, 20, 25, 34
+mobileNumber	hobbiesMusic	empty	TRUE	4	11, 22, 27, 31
+mobileNumber	hobbiesMusic	empty	FALSE	3	12, 15, 38
+location	email	WEST	lewiesthor@gmail.com	1	1
+location	email	WEST	lewiesthor	1	3
+location	email	WEST	lewiesthor@gmail	1	13
+location	email	WEST	@gmail.com	3	15, 25, 37
+location	email	WEST	empty	2	28, 43
+location	email	EAST	lewiesthor@gmail.com	2	4, 29
+location	email	EAST	lewiesthor	1	2
+location	email	EAST	lewiesthor@gmail	2	32, 38
+location	email	EAST	@gmail.com	1	14
+location	email	EAST	empty	1	21
+location	email	SOUTH	lewiesthor@gmail.com	2	31, 34
+location	email	SOUTH	lewiesthor	2	18, 42
+location	email	SOUTH	lewiesthor@gmail	1	5
+location	email	SOUTH	@gmail.com	2	7, 44
+location	email	SOUTH	empty	1	16
+location	email	NORTH	lewiesthor@gmail.com	1	17
+location	email	NORTH	lewiesthor	2	33, 41
+location	email	NORTH	lewiesthor@gmail	2	8, 20
+location	email	NORTH	@gmail.com	1	6
+location	email	NORTH	empty	1	27
+location	email	CENTRAL	lewiesthor@gmail.com	1	11
+location	email	CENTRAL	lewiesthor	2	22, 36
+location	email	CENTRAL	lewiesthor@gmail	1	30
+location	email	CENTRAL	@gmail.com	2	23, 40
+location	email	CENTRAL	empty	2	9, 39
+location	email	empty	lewiesthor@gmail.com	1	24
+location	email	empty	lewiesthor	1	12
+location	email	empty	lewiesthor@gmail	1	19
+location	email	empty	@gmail.com	1	26
+location	email	empty	empty	2	10, 35
+location	dateOfBirth	WEST	17061995	1	1
+location	dateOfBirth	WEST	17062050	2	13, 28
+location	dateOfBirth	WEST	17061850	2	3, 25
+location	dateOfBirth	WEST	19950617	1	15
+location	dateOfBirth	WEST	empty	2	37, 43
+location	dateOfBirth	EAST	17061995	1	14
+location	dateOfBirth	EAST	17062050	2	2, 21
+location	dateOfBirth	EAST	17061850	2	29, 38
+location	dateOfBirth	EAST	19950617	1	4
+location	dateOfBirth	EAST	empty	1	32
+location	dateOfBirth	SOUTH	17061995	3	5, 42, 44
+location	dateOfBirth	SOUTH	17062050	1	34
+location	dateOfBirth	SOUTH	17061850	2	7, 16
+location	dateOfBirth	SOUTH	19950617	1	31
+location	dateOfBirth	SOUTH	empty	1	18
+location	dateOfBirth	NORTH	17061995	1	27
+location	dateOfBirth	NORTH	17062050	1	6
+location	dateOfBirth	NORTH	17061850	1	41
+location	dateOfBirth	NORTH	19950617	3	8, 20, 33
+location	dateOfBirth	NORTH	empty	1	17
+location	dateOfBirth	CENTRAL	17061995	2	22, 30
+location	dateOfBirth	CENTRAL	17062050	1	39
+location	dateOfBirth	CENTRAL	17061850	1	36
+location	dateOfBirth	CENTRAL	19950617	1	40
+location	dateOfBirth	CENTRAL	empty	3	9, 11, 23
+location	dateOfBirth	empty	17061995	1	10
+location	dateOfBirth	empty	17062050	1	12
+location	dateOfBirth	empty	17061850	1	19
+location	dateOfBirth	empty	19950617	2	26, 35
+location	dateOfBirth	empty	empty	1	24
+location	firstName	WEST	Lewies Thor	2	1, 28
+location	firstName	WEST	empty	2	15, 43
+location	firstName	WEST	1234	2	3, 37
+location	firstName	WEST	!@#$	2	13, 25
+location	firstName	EAST	Lewies Thor	1	32
+location	firstName	EAST	empty	2	2, 14
+location	firstName	EAST	1234	2	21, 29
+location	firstName	EAST	!@#$	2	4, 38
+location	firstName	SOUTH	Lewies Thor	3	16, 18, 44
+location	firstName	SOUTH	empty	3	5, 31, 34
+location	firstName	SOUTH	1234	1	42
+location	firstName	SOUTH	!@#$	1	7
+location	firstName	NORTH	Lewies Thor	2	6, 20
+location	firstName	NORTH	empty	2	27, 41
+location	firstName	NORTH	1234	1	8
+location	firstName	NORTH	!@#$	2	17, 33
+location	firstName	CENTRAL	Lewies Thor	2	11, 36
+location	firstName	CENTRAL	empty	1	23
+location	firstName	CENTRAL	1234	3	9, 30, 40
+location	firstName	CENTRAL	!@#$	2	22, 39
+location	firstName	empty	Lewies Thor	1	35
+location	firstName	empty	empty	1	19
+location	firstName	empty	1234	3	12, 24, 26
+location	firstName	empty	!@#$	1	10
+location	lastName	WEST	Thor	2	1, 15
+location	lastName	WEST	empty	2	25, 28
+location	lastName	WEST	4321	2	3, 13
+location	lastName	WEST	$#@!	2	37, 43
+location	lastName	EAST	Thor	3	21, 29, 32
+location	lastName	EAST	empty	1	2
+location	lastName	EAST	4321	1	38
+location	lastName	EAST	$#@!	2	4, 14
+location	lastName	SOUTH	Thor	1	7
+location	lastName	SOUTH	empty	2	18, 34
+location	lastName	SOUTH	4321	3	5, 42, 44
+location	lastName	SOUTH	$#@!	2	16, 31
+location	lastName	NORTH	Thor	1	33
+location	lastName	NORTH	empty	1	8
+location	lastName	NORTH	4321	3	17, 20, 27
+location	lastName	NORTH	$#@!	2	6, 41
+location	lastName	CENTRAL	Thor	1	39
+location	lastName	CENTRAL	empty	3	11, 23, 40
+location	lastName	CENTRAL	4321	1	36
+location	lastName	CENTRAL	$#@!	3	9, 22, 30
+location	lastName	empty	Thor	2	12, 19
+location	lastName	empty	empty	1	10
+location	lastName	empty	4321	2	24, 26
+location	lastName	empty	$#@!	1	35
+location	fileType	WEST	txt	2	1, 25
+location	fileType	WEST	img	1	13
+location	fileType	WEST	pdf	3	3, 15, 43
+location	fileType	WEST	empty	2	28, 37
+location	fileType	EAST	txt	1	32
+location	fileType	EAST	img	1	2
+location	fileType	EAST	pdf	3	14, 29, 38
+location	fileType	EAST	empty	2	4, 21
+location	fileType	SOUTH	txt	3	16, 34, 44
+location	fileType	SOUTH	img	2	7, 31
+location	fileType	SOUTH	pdf	1	18
+location	fileType	SOUTH	empty	2	5, 42
+location	fileType	NORTH	txt	2	8, 41
+location	fileType	NORTH	img	2	20, 27
+location	fileType	NORTH	pdf	1	6
+location	fileType	NORTH	empty	2	17, 33
+location	fileType	CENTRAL	txt	2	22, 23
+location	fileType	CENTRAL	img	2	9, 39
+location	fileType	CENTRAL	pdf	2	30, 40
+location	fileType	CENTRAL	empty	2	11, 36
+location	fileType	empty	txt	2	12, 26
+location	fileType	empty	img	2	24, 35
+location	fileType	empty	pdf	1	10
+location	fileType	empty	empty	1	19
+location	address	WEST	test address blk 1 #01-01	3	1, 25, 43
+location	address	WEST	91239123	1	37
+location	address	WEST	!@#$!@#$	2	3, 28
+location	address	WEST	empty	2	13, 15
+location	address	EAST	test address blk 1 #01-01	2	21, 38
+location	address	EAST	91239123	2	2, 29
+location	address	EAST	!@#$!@#$	2	14, 32
+location	address	EAST	empty	1	4
+location	address	SOUTH	test address blk 1 #01-01	2	5, 18
+location	address	SOUTH	91239123	1	31
+location	address	SOUTH	!@#$!@#$	2	7, 42
+location	address	SOUTH	empty	3	16, 34, 44
+location	address	NORTH	test address blk 1 #01-01	2	27, 33
+location	address	NORTH	91239123	2	6, 17
+location	address	NORTH	!@#$!@#$	1	20
+location	address	NORTH	empty	2	8, 41
+location	address	CENTRAL	test address blk 1 #01-01	2	9, 40
+location	address	CENTRAL	91239123	2	30, 36
+location	address	CENTRAL	!@#$!@#$	2	11, 23
+location	address	CENTRAL	empty	2	22, 39
+location	address	empty	test address blk 1 #01-01	1	12
+location	address	empty	91239123	3	10, 19, 26
+location	address	empty	!@#$!@#$	1	35
+location	address	empty	empty	1	24
+location	gender	WEST	M	2	1, 13
+location	gender	WEST	F	3	15, 25, 43
+location	gender	WEST	empty	3	3, 28, 37
+location	gender	EAST	M	2	4, 21
+location	gender	EAST	F	2	2, 29
+location	gender	EAST	empty	3	14, 32, 38
+location	gender	SOUTH	M	2	7, 18
+location	gender	SOUTH	F	3	5, 16, 42
+location	gender	SOUTH	empty	3	31, 34, 44
+location	gender	NORTH	M	2	27, 41
+location	gender	NORTH	F	2	8, 33
+location	gender	NORTH	empty	3	6, 17, 20
+location	gender	CENTRAL	M	4	22, 23, 36, 40
+location	gender	CENTRAL	F	2	11, 30
+location	gender	CENTRAL	empty	2	9, 39
+location	gender	empty	M	2	10, 26
+location	gender	empty	F	2	19, 35
+location	gender	empty	empty	2	12, 24
+location	hobbiesSports	WEST	TRUE	4	1, 3, 15, 28
+location	hobbiesSports	WEST	FALSE	4	13, 25, 37, 43
+location	hobbiesSports	EAST	TRUE	4	14, 21, 29, 38
+location	hobbiesSports	EAST	FALSE	3	2, 4, 32
+location	hobbiesSports	SOUTH	TRUE	5	5, 18, 31, 34, 44
+location	hobbiesSports	SOUTH	FALSE	3	7, 16, 42
+location	hobbiesSports	NORTH	TRUE	3	8, 17, 41
+location	hobbiesSports	NORTH	FALSE	4	6, 20, 27, 33
+location	hobbiesSports	CENTRAL	TRUE	3	9, 22, 39
+location	hobbiesSports	CENTRAL	FALSE	5	11, 23, 30, 36, 40
+location	hobbiesSports	empty	TRUE	3	19, 26, 35
+location	hobbiesSports	empty	FALSE	3	10, 12, 24
+location	hobbiesReading	WEST	TRUE	2	1, 25
+location	hobbiesReading	WEST	FALSE	6	3, 13, 15, 28, 37, 43
+location	hobbiesReading	EAST	TRUE	3	4, 14, 38
+location	hobbiesReading	EAST	FALSE	4	2, 21, 29, 32
+location	hobbiesReading	SOUTH	TRUE	6	5, 16, 18, 31, 42, 44
+location	hobbiesReading	SOUTH	FALSE	2	7, 34
+location	hobbiesReading	NORTH	TRUE	3	6, 20, 33
+location	hobbiesReading	NORTH	FALSE	4	8, 17, 27, 41
+location	hobbiesReading	CENTRAL	TRUE	4	9, 23, 36, 39
+location	hobbiesReading	CENTRAL	FALSE	4	11, 22, 30, 40
+location	hobbiesReading	empty	TRUE	4	12, 19, 24, 35
+location	hobbiesReading	empty	FALSE	2	10, 26
+location	hobbiesMusic	WEST	TRUE	4	1, 3, 13, 43
+location	hobbiesMusic	WEST	FALSE	4	15, 25, 28, 37
+location	hobbiesMusic	EAST	TRUE	3	14, 21, 32
+location	hobbiesMusic	EAST	FALSE	4	2, 4, 29, 38
+location	hobbiesMusic	SOUTH	TRUE	3	18, 31, 42
+location	hobbiesMusic	SOUTH	FALSE	5	5, 7, 16, 34, 44
+location	hobbiesMusic	NORTH	TRUE	4	6, 8, 27, 33
+location	hobbiesMusic	NORTH	FALSE	3	17, 20, 41
+location	hobbiesMusic	CENTRAL	TRUE	5	11, 22, 36, 39, 40
+location	hobbiesMusic	CENTRAL	FALSE	3	9, 23, 30
+location	hobbiesMusic	empty	TRUE	3	10, 19, 26
+location	hobbiesMusic	empty	FALSE	3	12, 24, 35
+email	dateOfBirth	lewiesthor@gmail.com	17061995	1	1
+email	dateOfBirth	lewiesthor@gmail.com	17062050	1	34
+email	dateOfBirth	lewiesthor@gmail.com	17061850	1	29
+email	dateOfBirth	lewiesthor@gmail.com	19950617	2	4, 31
+email	dateOfBirth	lewiesthor@gmail.com	empty	3	11, 17, 24
+email	dateOfBirth	lewiesthor	17061995	2	22, 42
+email	dateOfBirth	lewiesthor	17062050	2	2, 12
+email	dateOfBirth	lewiesthor	17061850	3	3, 36, 41
+email	dateOfBirth	lewiesthor	19950617	1	33
+email	dateOfBirth	lewiesthor	empty	1	18
+email	dateOfBirth	lewiesthor@gmail	17061995	2	5, 30
+email	dateOfBirth	lewiesthor@gmail	17062050	1	13
+email	dateOfBirth	lewiesthor@gmail	17061850	2	19, 38
+email	dateOfBirth	lewiesthor@gmail	19950617	2	8, 20
+email	dateOfBirth	lewiesthor@gmail	empty	1	32
+email	dateOfBirth	@gmail.com	17061995	2	14, 44
+email	dateOfBirth	@gmail.com	17062050	1	6
+email	dateOfBirth	@gmail.com	17061850	2	7, 25
+email	dateOfBirth	@gmail.com	19950617	3	15, 26, 40
+email	dateOfBirth	@gmail.com	empty	2	23, 37
+email	dateOfBirth	empty	17061995	2	10, 27
+email	dateOfBirth	empty	17062050	3	21, 28, 39
+email	dateOfBirth	empty	17061850	1	16
+email	dateOfBirth	empty	19950617	1	35
+email	dateOfBirth	empty	empty	2	9, 43
+email	firstName	lewiesthor@gmail.com	Lewies Thor	2	1, 11
+email	firstName	lewiesthor@gmail.com	empty	2	31, 34
+email	firstName	lewiesthor@gmail.com	1234	2	24, 29
+email	firstName	lewiesthor@gmail.com	!@#$	2	4, 17
+email	firstName	lewiesthor	Lewies Thor	2	18, 36
+email	firstName	lewiesthor	empty	2	2, 41
+email	firstName	lewiesthor	1234	3	3, 12, 42
+email	firstName	lewiesthor	!@#$	2	22, 33
+email	firstName	lewiesthor@gmail	Lewies Thor	2	20, 32
+email	firstName	lewiesthor@gmail	empty	2	5, 19
+email	firstName	lewiesthor@gmail	1234	2	8, 30
+email	firstName	lewiesthor@gmail	!@#$	2	13, 38
+email	firstName	@gmail.com	Lewies Thor	2	6, 44
+email	firstName	@gmail.com	empty	3	14, 15, 23
+email	firstName	@gmail.com	1234	3	26, 37, 40
+email	firstName	@gmail.com	!@#$	2	7, 25
+email	firstName	empty	Lewies Thor	3	16, 28, 35
+email	firstName	empty	empty	2	27, 43
+email	firstName	empty	1234	2	9, 21
+email	firstName	empty	!@#$	2	10, 39
+email	lastName	lewiesthor@gmail.com	Thor	2	1, 29
+email	lastName	lewiesthor@gmail.com	empty	2	11, 34
+email	lastName	lewiesthor@gmail.com	4321	2	17, 24
+email	lastName	lewiesthor@gmail.com	$#@!	2	4, 31
+email	lastName	lewiesthor	Thor	2	12, 33
+email	lastName	lewiesthor	empty	2	2, 18
+email	lastName	lewiesthor	4321	3	3, 36, 42
+email	lastName	lewiesthor	$#@!	2	22, 41
+email	lastName	lewiesthor@gmail	Thor	2	19, 32
+email	lastName	lewiesthor@gmail	empty	1	8
+email	lastName	lewiesthor@gmail	4321	4	5, 13, 20, 38
+email	lastName	lewiesthor@gmail	$#@!	1	30
+email	lastName	@gmail.com	Thor	2	7, 15
+email	lastName	@gmail.com	empty	3	23, 25, 40
+email	lastName	@gmail.com	4321	2	26, 44
+email	lastName	@gmail.com	$#@!	3	6, 14, 37
+email	lastName	empty	Thor	2	21, 39
+email	lastName	empty	empty	2	10, 28
+email	lastName	empty	4321	1	27
+email	lastName	empty	$#@!	4	9, 16, 35, 43
+email	fileType	lewiesthor@gmail.com	txt	2	1, 34
+email	fileType	lewiesthor@gmail.com	img	2	24, 31
+email	fileType	lewiesthor@gmail.com	pdf	1	29
+email	fileType	lewiesthor@gmail.com	empty	3	4, 11, 17
+email	fileType	lewiesthor	txt	3	12, 22, 41
+email	fileType	lewiesthor	img	1	2
+email	fileType	lewiesthor	pdf	2	3, 18
+email	fileType	lewiesthor	empty	3	33, 36, 42
+email	fileType	lewiesthor@gmail	txt	2	8, 32
+email	fileType	lewiesthor@gmail	img	2	13, 20
+email	fileType	lewiesthor@gmail	pdf	2	30, 38
+email	fileType	lewiesthor@gmail	empty	2	5, 19
+email	fileType	@gmail.com	txt	4	23, 25, 26, 44
+email	fileType	@gmail.com	img	1	7
+email	fileType	@gmail.com	pdf	4	6, 14, 15, 40
+email	fileType	@gmail.com	empty	1	37
+email	fileType	empty	txt	1	16
+email	fileType	empty	img	4	9, 27, 35, 39
+email	fileType	empty	pdf	2	10, 43
+email	fileType	empty	empty	2	21, 28
+email	address	lewiesthor@gmail.com	test address blk 1 #01-01	1	1
+email	address	lewiesthor@gmail.com	91239123	3	17, 29, 31
+email	address	lewiesthor@gmail.com	!@#$!@#$	1	11
+email	address	lewiesthor@gmail.com	empty	3	4, 24, 34
+email	address	lewiesthor	test address blk 1 #01-01	3	12, 18, 33
+email	address	lewiesthor	91239123	2	2, 36
+email	address	lewiesthor	!@#$!@#$	2	3, 42
+email	address	lewiesthor	empty	2	22, 41
+email	address	lewiesthor@gmail	test address blk 1 #01-01	2	5, 38
+email	address	lewiesthor@gmail	91239123	2	19, 30
+email	address	lewiesthor@gmail	!@#$!@#$	2	20, 32
+email	address	lewiesthor@gmail	empty	2	8, 13
+email	address	@gmail.com	test address blk 1 #01-01	2	25, 40
+email	address	@gmail.com	91239123	3	6, 26, 37
+email	address	@gmail.com	!@#$!@#$	3	7, 14, 23
+email	address	@gmail.com	empty	2	15, 44
+email	address	empty	test address blk 1 #01-01	4	9, 21, 27, 43
+email	address	empty	91239123	1	10
+email	address	empty	!@#$!@#$	2	28, 35
+email	address	empty	empty	2	16, 39
+email	gender	lewiesthor@gmail.com	M	2	1, 4
+email	gender	lewiesthor@gmail.com	F	2	11, 29
+email	gender	lewiesthor@gmail.com	empty	4	17, 24, 31, 34
+email	gender	lewiesthor	M	4	18, 22, 36, 41
+email	gender	lewiesthor	F	3	2, 33, 42
+email	gender	lewiesthor	empty	2	3, 12
+email	gender	lewiesthor@gmail	M	1	13
+email	gender	lewiesthor@gmail	F	4	5, 8, 19, 30
+email	gender	lewiesthor@gmail	empty	3	20, 32, 38
+email	gender	@gmail.com	M	4	7, 23, 26, 40
+email	gender	@gmail.com	F	2	15, 25
+email	gender	@gmail.com	empty	4	6, 14, 37, 44
+email	gender	empty	M	3	10, 21, 27
+email	gender	empty	F	3	16, 35, 43
+email	gender	empty	empty	3	9, 28, 39
+email	hobbiesSports	lewiesthor@gmail.com	TRUE	5	1, 17, 29, 31, 34
+email	hobbiesSports	lewiesthor@gmail.com	FALSE	3	4, 11, 24
+email	hobbiesSports	lewiesthor	TRUE	4	3, 18, 22, 41
+email	hobbiesSports	lewiesthor	FALSE	5	2, 12, 33, 36, 42
+email	hobbiesSports	lewiesthor@gmail	TRUE	4	5, 8, 19, 38
+email	hobbiesSports	lewiesthor@gmail	FALSE	4	13, 20, 30, 32
+email	hobbiesSports	@gmail.com	TRUE	4	14, 15, 26, 44
+email	hobbiesSports	@gmail.com	FALSE	6	6, 7, 23, 25, 37, 40
+email	hobbiesSports	empty	TRUE	5	9, 21, 28, 35, 39
+email	hobbiesSports	empty	FALSE	4	10, 16, 27, 43
+email	hobbiesReading	lewiesthor@gmail.com	TRUE	4	1, 4, 24, 31
+email	hobbiesReading	lewiesthor@gmail.com	FALSE	4	11, 17, 29, 34
+email	hobbiesReading	lewiesthor	TRUE	5	12, 18, 33, 36, 42
+email	hobbiesReading	lewiesthor	FALSE	4	2, 3, 22, 41
+email	hobbiesReading	lewiesthor@gmail	TRUE	4	5, 19, 20, 38
+email	hobbiesReading	lewiesthor@gmail	FALSE	4	8, 13, 30, 32
+email	hobbiesReading	@gmail.com	TRUE	5	6, 14, 23, 25, 44
+email	hobbiesReading	@gmail.com	FALSE	5	7, 15, 26, 37, 40
+email	hobbiesReading	empty	TRUE	4	9, 16, 35, 39
+email	hobbiesReading	empty	FALSE	5	10, 21, 27, 28, 43
+email	hobbiesMusic	lewiesthor@gmail.com	TRUE	3	1, 11, 31
+email	hobbiesMusic	lewiesthor@gmail.com	FALSE	5	4, 17, 24, 29, 34
+email	hobbiesMusic	lewiesthor	TRUE	6	3, 18, 22, 33, 36, 42
+email	hobbiesMusic	lewiesthor	FALSE	3	2, 12, 41
+email	hobbiesMusic	lewiesthor@gmail	TRUE	4	8, 13, 19, 32
+email	hobbiesMusic	lewiesthor@gmail	FALSE	4	5, 20, 30, 38
+email	hobbiesMusic	@gmail.com	TRUE	4	6, 14, 26, 40
+email	hobbiesMusic	@gmail.com	FALSE	6	7, 15, 23, 25, 37, 44
+email	hobbiesMusic	empty	TRUE	5	10, 21, 27, 39, 43
+email	hobbiesMusic	empty	FALSE	4	9, 16, 28, 35
+dateOfBirth	firstName	17061995	Lewies Thor	2	1, 44
+dateOfBirth	firstName	17061995	empty	3	5, 14, 27
+dateOfBirth	firstName	17061995	1234	2	30, 42
+dateOfBirth	firstName	17061995	!@#$	2	10, 22
+dateOfBirth	firstName	17062050	Lewies Thor	2	6, 28
+dateOfBirth	firstName	17062050	empty	2	2, 34
+dateOfBirth	firstName	17062050	1234	2	12, 21
+dateOfBirth	firstName	17062050	!@#$	2	13, 39
+dateOfBirth	firstName	17061850	Lewies Thor	2	16, 36
+dateOfBirth	firstName	17061850	empty	2	19, 41
+dateOfBirth	firstName	17061850	1234	2	3, 29
+dateOfBirth	firstName	17061850	!@#$	3	7, 25, 38
+dateOfBirth	firstName	19950617	Lewies Thor	2	20, 35
+dateOfBirth	firstName	19950617	empty	2	15, 31
+dateOfBirth	firstName	19950617	1234	3	8, 26, 40
+dateOfBirth	firstName	19950617	!@#$	2	4, 33
+dateOfBirth	firstName	empty	Lewies Thor	3	11, 18, 32
+dateOfBirth	firstName	empty	empty	2	23, 43
+dateOfBirth	firstName	empty	1234	3	9, 24, 37
+dateOfBirth	firstName	empty	!@#$	1	17
+dateOfBirth	lastName	17061995	Thor	1	1
+dateOfBirth	lastName	17061995	empty	1	10
+dateOfBirth	lastName	17061995	4321	4	5, 27, 42, 44
+dateOfBirth	lastName	17061995	$#@!	3	14, 22, 30
+dateOfBirth	lastName	17062050	Thor	3	12, 21, 39
+dateOfBirth	lastName	17062050	empty	3	2, 28, 34
+dateOfBirth	lastName	17062050	4321	1	13
+dateOfBirth	lastName	17062050	$#@!	1	6
+dateOfBirth	lastName	17061850	Thor	3	7, 19, 29
+dateOfBirth	lastName	17061850	empty	1	25
+dateOfBirth	lastName	17061850	4321	3	3, 36, 38
+dateOfBirth	lastName	17061850	$#@!	2	16, 41
+dateOfBirth	lastName	19950617	Thor	2	15, 33
+dateOfBirth	lastName	19950617	empty	2	8, 40
+dateOfBirth	lastName	19950617	4321	2	20, 26
+dateOfBirth	lastName	19950617	$#@!	3	4, 31, 35
+dateOfBirth	lastName	empty	Thor	1	32
+dateOfBirth	lastName	empty	empty	3	11, 18, 23
+dateOfBirth	lastName	empty	4321	2	17, 24
+dateOfBirth	lastName	empty	$#@!	3	9, 37, 43
+dateOfBirth	fileType	17061995	txt	3	1, 22, 44
+dateOfBirth	fileType	17061995	img	1	27
+dateOfBirth	fileType	17061995	pdf	3	10, 14, 30
+dateOfBirth	fileType	17061995	empty	2	5, 42
+dateOfBirth	fileType	17062050	txt	2	12, 34
+dateOfBirth	fileType	17062050	img	3	2, 13, 39
+dateOfBirth	fileType	17062050	pdf	1	6
+dateOfBirth	fileType	17062050	empty	2	21, 28
+dateOfBirth	fileType	17061850	txt	3	16, 25, 41
+dateOfBirth	fileType	17061850	img	1	7
+dateOfBirth	fileType	17061850	pdf	3	3, 29, 38
+dateOfBirth	fileType	17061850	empty	2	19, 36
+dateOfBirth	fileType	19950617	txt	2	8, 26
+dateOfBirth	fileType	19950617	img	3	20, 31, 35
+dateOfBirth	fileType	19950617	pdf	2	15, 40
+dateOfBirth	fileType	19950617	empty	2	4, 33
+dateOfBirth	fileType	empty	txt	2	23, 32
+dateOfBirth	fileType	empty	img	2	9, 24
+dateOfBirth	fileType	empty	pdf	2	18, 43
+dateOfBirth	fileType	empty	empty	3	11, 17, 37
+dateOfBirth	address	17061995	test address blk 1 #01-01	3	1, 5, 27
+dateOfBirth	address	17061995	91239123	2	10, 30
+dateOfBirth	address	17061995	!@#$!@#$	2	14, 42
+dateOfBirth	address	17061995	empty	2	22, 44
+dateOfBirth	address	17062050	test address blk 1 #01-01	2	12, 21
+dateOfBirth	address	17062050	91239123	2	2, 6
+dateOfBirth	address	17062050	!@#$!@#$	1	28
+dateOfBirth	address	17062050	empty	3	13, 34, 39
+dateOfBirth	address	17061850	test address blk 1 #01-01	2	25, 38
+dateOfBirth	address	17061850	91239123	3	19, 29, 36
+dateOfBirth	address	17061850	!@#$!@#$	2	3, 7
+dateOfBirth	address	17061850	empty	2	16, 41
+dateOfBirth	address	19950617	test address blk 1 #01-01	2	33, 40
+dateOfBirth	address	19950617	91239123	2	26, 31
+dateOfBirth	address	19950617	!@#$!@#$	2	20, 35
+dateOfBirth	address	19950617	empty	3	4, 8, 15
+dateOfBirth	address	empty	test address blk 1 #01-01	3	9, 18, 43
+dateOfBirth	address	empty	91239123	2	17, 37
+dateOfBirth	address	empty	!@#$!@#$	3	11, 23, 32
+dateOfBirth	address	empty	empty	1	24
+dateOfBirth	gender	17061995	M	4	1, 10, 22, 27
+dateOfBirth	gender	17061995	F	3	5, 30, 42
+dateOfBirth	gender	17061995	empty	2	14, 44
+dateOfBirth	gender	17062050	M	2	13, 21
+dateOfBirth	gender	17062050	F	1	2
+dateOfBirth	gender	17062050	empty	5	6, 12, 28, 34, 39
+dateOfBirth	gender	17061850	M	3	7, 36, 41
+dateOfBirth	gender	17061850	F	4	16, 19, 25, 29
+dateOfBirth	gender	17061850	empty	2	3, 38
+dateOfBirth	gender	19950617	M	3	4, 26, 40
+dateOfBirth	gender	19950617	F	4	8, 15, 33, 35
+dateOfBirth	gender	19950617	empty	2	20, 31
+dateOfBirth	gender	empty	M	2	18, 23
+dateOfBirth	gender	empty	F	2	11, 43
+dateOfBirth	gender	empty	empty	5	9, 17, 24, 32, 37
+dateOfBirth	hobbiesSports	17061995	TRUE	5	1, 5, 14, 22, 44
+dateOfBirth	hobbiesSports	17061995	FALSE	4	10, 27, 30, 42
+dateOfBirth	hobbiesSports	17062050	TRUE	4	21, 28, 34, 39
+dateOfBirth	hobbiesSports	17062050	FALSE	4	2, 6, 12, 13
+dateOfBirth	hobbiesSports	17061850	TRUE	5	3, 19, 29, 38, 41
+dateOfBirth	hobbiesSports	17061850	FALSE	4	7, 16, 25, 36
+dateOfBirth	hobbiesSports	19950617	TRUE	5	8, 15, 26, 31, 35
+dateOfBirth	hobbiesSports	19950617	FALSE	4	4, 20, 33, 40
+dateOfBirth	hobbiesSports	empty	TRUE	3	9, 17, 18
+dateOfBirth	hobbiesSports	empty	FALSE	6	11, 23, 24, 32, 37, 43
+dateOfBirth	hobbiesReading	17061995	TRUE	5	1, 5, 14, 42, 44
+dateOfBirth	hobbiesReading	17061995	FALSE	4	10, 22, 27, 30
+dateOfBirth	hobbiesReading	17062050	TRUE	3	6, 12, 39
+dateOfBirth	hobbiesReading	17062050	FALSE	5	2, 13, 21, 28, 34
+dateOfBirth	hobbiesReading	17061850	TRUE	5	16, 19, 25, 36, 38
+dateOfBirth	hobbiesReading	17061850	FALSE	4	3, 7, 29, 41
+dateOfBirth	hobbiesReading	19950617	TRUE	5	4, 20, 31, 33, 35
+dateOfBirth	hobbiesReading	19950617	FALSE	4	8, 15, 26, 40
+dateOfBirth	hobbiesReading	empty	TRUE	4	9, 18, 23, 24
+dateOfBirth	hobbiesReading	empty	FALSE	5	11, 17, 32, 37, 43
+dateOfBirth	hobbiesMusic	17061995	TRUE	6	1, 10, 14, 22, 27, 42
+dateOfBirth	hobbiesMusic	17061995	FALSE	3	5, 30, 44
+dateOfBirth	hobbiesMusic	17062050	TRUE	4	6, 13, 21, 39
+dateOfBirth	hobbiesMusic	17062050	FALSE	4	2, 12, 28, 34
+dateOfBirth	hobbiesMusic	17061850	TRUE	3	3, 19, 36
+dateOfBirth	hobbiesMusic	17061850	FALSE	6	7, 16, 25, 29, 38, 41
+dateOfBirth	hobbiesMusic	19950617	TRUE	5	8, 26, 31, 33, 40
+dateOfBirth	hobbiesMusic	19950617	FALSE	4	4, 15, 20, 35
+dateOfBirth	hobbiesMusic	empty	TRUE	4	11, 18, 32, 43
+dateOfBirth	hobbiesMusic	empty	FALSE	5	9, 17, 23, 24, 37
+firstName	lastName	Lewies Thor	Thor	2	1, 32
+firstName	lastName	Lewies Thor	empty	3	11, 18, 28
+firstName	lastName	Lewies Thor	4321	3	20, 36, 44
+firstName	lastName	Lewies Thor	$#@!	3	6, 16, 35
+firstName	lastName	empty	Thor	2	15, 19
+firstName	lastName	empty	empty	3	2, 23, 34
+firstName	lastName	empty	4321	2	5, 27
+firstName	lastName	empty	$#@!	4	14, 31, 41, 43
+firstName	lastName	1234	Thor	3	12, 21, 29
+firstName	lastName	1234	empty	2	8, 40
+firstName	lastName	1234	4321	4	3, 24, 26, 42
+firstName	lastName	1234	$#@!	3	9, 30, 37
+firstName	lastName	!@#$	Thor	3	7, 33, 39
+firstName	lastName	!@#$	empty	2	10, 25
+firstName	lastName	!@#$	4321	3	13, 17, 38
+firstName	lastName	!@#$	$#@!	2	4, 22
+firstName	fileType	Lewies Thor	txt	4	1, 16, 32, 44
+firstName	fileType	Lewies Thor	img	2	20, 35
+firstName	fileType	Lewies Thor	pdf	2	6, 18
+firstName	fileType	Lewies Thor	empty	3	11, 28, 36
+firstName	fileType	empty	txt	3	23, 34, 41
+firstName	fileType	empty	img	3	2, 27, 31
+firstName	fileType	empty	pdf	3	14, 15, 43
+firstName	fileType	empty	empty	2	5, 19
+firstName	fileType	1234	txt	3	8, 12, 26
+firstName	fileType	1234	img	2	9, 24
+firstName	fileType	1234	pdf	4	3, 29, 30, 40
+firstName	fileType	1234	empty	3	21, 37, 42
+firstName	fileType	!@#$	txt	2	22, 25
+firstName	fileType	!@#$	img	3	7, 13, 39
+firstName	fileType	!@#$	pdf	2	10, 38
+firstName	fileType	!@#$	empty	3	4, 17, 33
+firstName	address	Lewies Thor	test address blk 1 #01-01	2	1, 18
+firstName	address	Lewies Thor	91239123	2	6, 36
+firstName	address	Lewies Thor	!@#$!@#$	5	11, 20, 28, 32, 35
+firstName	address	Lewies Thor	empty	2	16, 44
+firstName	address	empty	test address blk 1 #01-01	3	5, 27, 43
+firstName	address	empty	91239123	3	2, 19, 31
+firstName	address	empty	!@#$!@#$	2	14, 23
+firstName	address	empty	empty	3	15, 34, 41
+firstName	address	1234	test address blk 1 #01-01	4	9, 12, 21, 40
+firstName	address	1234	91239123	4	26, 29, 30, 37
+firstName	address	1234	!@#$!@#$	2	3, 42
+firstName	address	1234	empty	2	8, 24
+firstName	address	!@#$	test address blk 1 #01-01	3	25, 33, 38
+firstName	address	!@#$	91239123	2	10, 17
+firstName	address	!@#$	!@#$!@#$	1	7
+firstName	address	!@#$	empty	4	4, 13, 22, 39
+firstName	gender	Lewies Thor	M	3	1, 18, 36
+firstName	gender	Lewies Thor	F	3	11, 16, 35
+firstName	gender	Lewies Thor	empty	5	6, 20, 28, 32, 44
+firstName	gender	empty	M	3	23, 27, 41
+firstName	gender	empty	F	5	2, 5, 15, 19, 43
+firstName	gender	empty	empty	3	14, 31, 34
+firstName	gender	1234	M	3	21, 26, 40
+firstName	gender	1234	F	4	8, 29, 30, 42
+firstName	gender	1234	empty	5	3, 9, 12, 24, 37
+firstName	gender	!@#$	M	5	4, 7, 10, 13, 22
+firstName	gender	!@#$	F	2	25, 33
+firstName	gender	!@#$	empty	3	17, 38, 39
+firstName	hobbiesSports	Lewies Thor	TRUE	5	1, 18, 28, 35, 44
+firstName	hobbiesSports	Lewies Thor	FALSE	6	6, 11, 16, 20, 32, 36
+firstName	hobbiesSports	empty	TRUE	7	5, 14, 15, 19, 31, 34, 41
+firstName	hobbiesSports	empty	FALSE	4	2, 23, 27, 43
+firstName	hobbiesSports	1234	TRUE	6	3, 8, 9, 21, 26, 29
+firstName	hobbiesSports	1234	FALSE	6	12, 24, 30, 37, 40, 42
+firstName	hobbiesSports	!@#$	TRUE	4	17, 22, 38, 39
+firstName	hobbiesSports	!@#$	FALSE	6	4, 7, 10, 13, 25, 33
+firstName	hobbiesReading	Lewies Thor	TRUE	8	1, 6, 16, 18, 20, 35, 36, 44
+firstName	hobbiesReading	Lewies Thor	FALSE	3	11, 28, 32
+firstName	hobbiesReading	empty	TRUE	5	5, 14, 19, 23, 31
+firstName	hobbiesReading	empty	FALSE	6	2, 15, 27, 34, 41, 43
+firstName	hobbiesReading	1234	TRUE	4	9, 12, 24, 42
+firstName	hobbiesReading	1234	FALSE	8	3, 8, 21, 26, 29, 30, 37, 40
+firstName	hobbiesReading	!@#$	TRUE	5	4, 25, 33, 38, 39
+firstName	hobbiesReading	!@#$	FALSE	5	7, 10, 13, 17, 22
+firstName	hobbiesMusic	Lewies Thor	TRUE	6	1, 6, 11, 18, 32, 36
+firstName	hobbiesMusic	Lewies Thor	FALSE	5	16, 20, 28, 35, 44
+firstName	hobbiesMusic	empty	TRUE	5	14, 19, 27, 31, 43
+firstName	hobbiesMusic	empty	FALSE	6	2, 5, 15, 23, 34, 41
+firstName	hobbiesMusic	1234	TRUE	6	3, 8, 21, 26, 40, 42
+firstName	hobbiesMusic	1234	FALSE	6	9, 12, 24, 29, 30, 37
+firstName	hobbiesMusic	!@#$	TRUE	5	10, 13, 22, 33, 39
+firstName	hobbiesMusic	!@#$	FALSE	5	4, 7, 17, 25, 38
+lastName	fileType	Thor	txt	3	1, 12, 32
+lastName	fileType	Thor	img	2	7, 39
+lastName	fileType	Thor	pdf	2	15, 29
+lastName	fileType	Thor	empty	3	19, 21, 33
+lastName	fileType	empty	txt	4	8, 23, 25, 34
+lastName	fileType	empty	img	1	2
+lastName	fileType	empty	pdf	3	10, 18, 40
+lastName	fileType	empty	empty	2	11, 28
+lastName	fileType	4321	txt	2	26, 44
+lastName	fileType	4321	img	4	13, 20, 24, 27
+lastName	fileType	4321	pdf	2	3, 38
+lastName	fileType	4321	empty	4	5, 17, 36, 42
+lastName	fileType	$#@!	txt	3	16, 22, 41
+lastName	fileType	$#@!	img	3	9, 31, 35
+lastName	fileType	$#@!	pdf	4	6, 14, 30, 43
+lastName	fileType	$#@!	empty	2	4, 37
+lastName	address	Thor	test address blk 1 #01-01	4	1, 12, 21, 33
+lastName	address	Thor	91239123	2	19, 29
+lastName	address	Thor	!@#$!@#$	2	7, 32
+lastName	address	Thor	empty	2	15, 39
+lastName	address	empty	test address blk 1 #01-01	3	18, 25, 40
+lastName	address	empty	91239123	2	2, 10
+lastName	address	empty	!@#$!@#$	3	11, 23, 28
+lastName	address	empty	empty	2	8, 34
+lastName	address	4321	test address blk 1 #01-01	3	5, 27, 38
+lastName	address	4321	91239123	3	17, 26, 36
+lastName	address	4321	!@#$!@#$	3	3, 20, 42
+lastName	address	4321	empty	3	13, 24, 44
+lastName	address	$#@!	test address blk 1 #01-01	2	9, 43
+lastName	address	$#@!	91239123	4	6, 30, 31, 37
+lastName	address	$#@!	!@#$!@#$	2	14, 35
+lastName	address	$#@!	empty	4	4, 16, 22, 41
+lastName	gender	Thor	M	3	1, 7, 21
+lastName	gender	Thor	F	4	15, 19, 29, 33
+lastName	gender	Thor	empty	3	12, 32, 39
+lastName	gender	empty	M	4	10, 18, 23, 40
+lastName	gender	empty	F	4	2, 8, 11, 25
+lastName	gender	empty	empty	2	28, 34
+lastName	gender	4321	M	4	13, 26, 27, 36
+lastName	gender	4321	F	2	5, 42
+lastName	gender	4321	empty	6	3, 17, 20, 24, 38, 44
+lastName	gender	$#@!	M	3	4, 22, 41
+lastName	gender	$#@!	F	4	16, 30, 35, 43
+lastName	gender	$#@!	empty	5	6, 9, 14, 31, 37
+lastName	hobbiesSports	Thor	TRUE	6	1, 15, 19, 21, 29, 39
+lastName	hobbiesSports	Thor	FALSE	4	7, 12, 32, 33
+lastName	hobbiesSports	empty	TRUE	4	8, 18, 28, 34
+lastName	hobbiesSports	empty	FALSE	6	2, 10, 11, 23, 25, 40
+lastName	hobbiesSports	4321	TRUE	6	3, 5, 17, 26, 38, 44
+lastName	hobbiesSports	4321	FALSE	6	13, 20, 24, 27, 36, 42
+lastName	hobbiesSports	$#@!	TRUE	6	9, 14, 22, 31, 35, 41
+lastName	hobbiesSports	$#@!	FALSE	6	4, 6, 16, 30, 37, 43
+lastName	hobbiesReading	Thor	TRUE	5	1, 12, 19, 33, 39
+lastName	hobbiesReading	Thor	FALSE	5	7, 15, 21, 29, 32
+lastName	hobbiesReading	empty	TRUE	3	18, 23, 25
+lastName	hobbiesReading	empty	FALSE	7	2, 8, 10, 11, 28, 34, 40
+lastName	hobbiesReading	4321	TRUE	7	5, 20, 24, 36, 38, 42, 44
+lastName	hobbiesReading	4321	FALSE	5	3, 13, 17, 26, 27
+lastName	hobbiesReading	$#@!	TRUE	7	4, 6, 9, 14, 16, 31, 35
+lastName	hobbiesReading	$#@!	FALSE	5	22, 30, 37, 41, 43
+lastName	hobbiesMusic	Thor	TRUE	6	1, 19, 21, 32, 33, 39
+lastName	hobbiesMusic	Thor	FALSE	4	7, 12, 15, 29
+lastName	hobbiesMusic	empty	TRUE	5	8, 10, 11, 18, 40
+lastName	hobbiesMusic	empty	FALSE	5	2, 23, 25, 28, 34
+lastName	hobbiesMusic	4321	TRUE	6	3, 13, 26, 27, 36, 42
+lastName	hobbiesMusic	4321	FALSE	6	5, 17, 20, 24, 38, 44
+lastName	hobbiesMusic	$#@!	TRUE	5	6, 14, 22, 31, 43
+lastName	hobbiesMusic	$#@!	FALSE	7	4, 9, 16, 30, 35, 37, 41
+fileType	address	txt	test address blk 1 #01-01	3	1, 12, 25
+fileType	address	txt	91239123	1	26
+fileType	address	txt	!@#$!@#$	2	23, 32
+fileType	address	txt	empty	6	8, 16, 22, 34, 41, 44
+fileType	address	img	test address blk 1 #01-01	2	9, 27
+fileType	address	img	91239123	2	2, 31
+fileType	address	img	!@#$!@#$	3	7, 20, 35
+fileType	address	img	empty	3	13, 24, 39
+fileType	address	pdf	test address blk 1 #01-01	4	18, 38, 40, 43
+fileType	address	pdf	91239123	4	6, 10, 29, 30
+fileType	address	pdf	!@#$!@#$	2	3, 14
+fileType	address	pdf	empty	1	15
+fileType	address	empty	test address blk 1 #01-01	3	5, 21, 33
+fileType	address	empty	91239123	4	17, 19, 36, 37
+fileType	address	empty	!@#$!@#$	3	11, 28, 42
+fileType	address	empty	empty	1	4
+fileType	gender	txt	M	5	1, 22, 23, 26, 41
+fileType	gender	txt	F	3	8, 16, 25
+fileType	gender	txt	empty	4	12, 32, 34, 44
+fileType	gender	img	M	3	7, 13, 27
+fileType	gender	img	F	2	2, 35
+fileType	gender	img	empty	5	9, 20, 24, 31, 39
+fileType	gender	pdf	M	3	10, 18, 40
+fileType	gender	pdf	F	4	15, 29, 30, 43
+fileType	gender	pdf	empty	4	3, 6, 14, 38
+fileType	gender	empty	M	3	4, 21, 36
+fileType	gender	empty	F	5	5, 11, 19, 33, 42
+fileType	gender	empty	empty	3	17, 28, 37
+fileType	hobbiesSports	txt	TRUE	7	1, 8, 22, 26, 34, 41, 44
+fileType	hobbiesSports	txt	FALSE	5	12, 16, 23, 25, 32
+fileType	hobbiesSports	img	TRUE	4	9, 31, 35, 39
+fileType	hobbiesSports	img	FALSE	6	2, 7, 13, 20, 24, 27
+fileType	hobbiesSports	pdf	TRUE	6	3, 14, 15, 18, 29, 38
+fileType	hobbiesSports	pdf	FALSE	5	6, 10, 30, 40, 43
+fileType	hobbiesSports	empty	TRUE	5	5, 17, 19, 21, 28
+fileType	hobbiesSports	empty	FALSE	6	4, 11, 33, 36, 37, 42
+fileType	hobbiesReading	txt	TRUE	6	1, 12, 16, 23, 25, 44
+fileType	hobbiesReading	txt	FALSE	6	8, 22, 26, 32, 34, 41
+fileType	hobbiesReading	img	TRUE	6	9, 20, 24, 31, 35, 39
+fileType	hobbiesReading	img	FALSE	4	2, 7, 13, 27
+fileType	hobbiesReading	pdf	TRUE	4	6, 14, 18, 38
+fileType	hobbiesReading	pdf	FALSE	7	3, 10, 15, 29, 30, 40, 43
+fileType	hobbiesReading	empty	TRUE	6	4, 5, 19, 33, 36, 42
+fileType	hobbiesReading	empty	FALSE	5	11, 17, 21, 28, 37
+fileType	hobbiesMusic	txt	TRUE	5	1, 8, 22, 26, 32
+fileType	hobbiesMusic	txt	FALSE	7	12, 16, 23, 25, 34, 41, 44
+fileType	hobbiesMusic	img	TRUE	4	13, 27, 31, 39
+fileType	hobbiesMusic	img	FALSE	6	2, 7, 9, 20, 24, 35
+fileType	hobbiesMusic	pdf	TRUE	7	3, 6, 10, 14, 18, 40, 43
+fileType	hobbiesMusic	pdf	FALSE	4	15, 29, 30, 38
+fileType	hobbiesMusic	empty	TRUE	6	11, 19, 21, 33, 36, 42
+fileType	hobbiesMusic	empty	FALSE	5	4, 5, 17, 28, 37
+address	gender	test address blk 1 #01-01	M	5	1, 18, 21, 27, 40
+address	gender	test address blk 1 #01-01	F	4	5, 25, 33, 43
+address	gender	test address blk 1 #01-01	empty	3	9, 12, 38
+address	gender	91239123	M	3	10, 26, 36
+address	gender	91239123	F	4	2, 19, 29, 30
+address	gender	91239123	empty	4	6, 17, 31, 37
+address	gender	!@#$!@#$	M	2	7, 23
+address	gender	!@#$!@#$	F	3	11, 35, 42
+address	gender	!@#$!@#$	empty	5	3, 14, 20, 28, 32
+address	gender	empty	M	4	4, 13, 22, 41
+address	gender	empty	F	3	8, 15, 16
+address	gender	empty	empty	4	24, 34, 39, 44
+address	hobbiesSports	test address blk 1 #01-01	TRUE	6	1, 5, 9, 18, 21, 38
+address	hobbiesSports	test address blk 1 #01-01	FALSE	6	12, 25, 27, 33, 40, 43
+address	hobbiesSports	91239123	TRUE	5	17, 19, 26, 29, 31
+address	hobbiesSports	91239123	FALSE	6	2, 6, 10, 30, 36, 37
+address	hobbiesSports	!@#$!@#$	TRUE	4	3, 14, 28, 35
+address	hobbiesSports	!@#$!@#$	FALSE	6	7, 11, 20, 23, 32, 42
+address	hobbiesSports	empty	TRUE	7	8, 15, 22, 34, 39, 41, 44
+address	hobbiesSports	empty	FALSE	4	4, 13, 16, 24
+address	hobbiesReading	test address blk 1 #01-01	TRUE	8	1, 5, 9, 12, 18, 25, 33, 38
+address	hobbiesReading	test address blk 1 #01-01	FALSE	4	21, 27, 40, 43
+address	hobbiesReading	91239123	TRUE	4	6, 19, 31, 36
+address	hobbiesReading	91239123	FALSE	7	2, 10, 17, 26, 29, 30, 37
+address	hobbiesReading	!@#$!@#$	TRUE	5	14, 20, 23, 35, 42
+address	hobbiesReading	!@#$!@#$	FALSE	5	3, 7, 11, 28, 32
+address	hobbiesReading	empty	TRUE	5	4, 16, 24, 39, 44
+address	hobbiesReading	empty	FALSE	6	8, 13, 15, 22, 34, 41
+address	hobbiesMusic	test address blk 1 #01-01	TRUE	7	1, 18, 21, 27, 33, 40, 43
+address	hobbiesMusic	test address blk 1 #01-01	FALSE	5	5, 9, 12, 25, 38
+address	hobbiesMusic	91239123	TRUE	6	6, 10, 19, 26, 31, 36
+address	hobbiesMusic	91239123	FALSE	5	2, 17, 29, 30, 37
+address	hobbiesMusic	!@#$!@#$	TRUE	5	3, 11, 14, 32, 42
+address	hobbiesMusic	!@#$!@#$	FALSE	5	7, 20, 23, 28, 35
+address	hobbiesMusic	empty	TRUE	4	8, 13, 22, 39
+address	hobbiesMusic	empty	FALSE	7	4, 15, 16, 24, 34, 41, 44
+gender	hobbiesSports	M	TRUE	6	1, 18, 21, 22, 26, 41
+gender	hobbiesSports	M	FALSE	8	4, 7, 10, 13, 23, 27, 36, 40
+gender	hobbiesSports	F	TRUE	6	5, 8, 15, 19, 29, 35
+gender	hobbiesSports	F	FALSE	8	2, 11, 16, 25, 30, 33, 42, 43
+gender	hobbiesSports	empty	TRUE	10	3, 9, 14, 17, 28, 31, 34, 38, 39, 44
+gender	hobbiesSports	empty	FALSE	6	6, 12, 20, 24, 32, 37
+gender	hobbiesReading	M	TRUE	5	1, 4, 18, 23, 36
+gender	hobbiesReading	M	FALSE	9	7, 10, 13, 21, 22, 26, 27, 40, 41
+gender	hobbiesReading	F	TRUE	7	5, 16, 19, 25, 33, 35, 42
+gender	hobbiesReading	F	FALSE	7	2, 8, 11, 15, 29, 30, 43
+gender	hobbiesReading	empty	TRUE	10	6, 9, 12, 14, 20, 24, 31, 38, 39, 44
+gender	hobbiesReading	empty	FALSE	6	3, 17, 28, 32, 34, 37
+gender	hobbiesMusic	M	TRUE	10	1, 10, 13, 18, 21, 22, 26, 27, 36, 40
+gender	hobbiesMusic	M	FALSE	4	4, 7, 23, 41
+gender	hobbiesMusic	F	TRUE	6	8, 11, 19, 33, 42, 43
+gender	hobbiesMusic	F	FALSE	8	2, 5, 15, 16, 25, 29, 30, 35
+gender	hobbiesMusic	empty	TRUE	6	3, 6, 14, 31, 32, 39
+gender	hobbiesMusic	empty	FALSE	10	9, 12, 17, 20, 24, 28, 34, 37, 38, 44
+hobbiesSports	hobbiesReading	TRUE	TRUE	11	1, 5, 9, 14, 18, 19, 31, 35, 38, 39, 44
+hobbiesSports	hobbiesReading	TRUE	FALSE	11	3, 8, 15, 17, 21, 22, 26, 28, 29, 34, 41
+hobbiesSports	hobbiesReading	FALSE	TRUE	11	4, 6, 12, 16, 20, 23, 24, 25, 33, 36, 42
+hobbiesSports	hobbiesReading	FALSE	FALSE	11	2, 7, 10, 11, 13, 27, 30, 32, 37, 40, 43
+hobbiesSports	hobbiesMusic	TRUE	TRUE	11	1, 3, 8, 14, 18, 19, 21, 22, 26, 31, 39
+hobbiesSports	hobbiesMusic	TRUE	FALSE	11	5, 9, 15, 17, 28, 29, 34, 35, 38, 41, 44
+hobbiesSports	hobbiesMusic	FALSE	TRUE	11	6, 10, 11, 13, 27, 32, 33, 36, 40, 42, 43
+hobbiesSports	hobbiesMusic	FALSE	FALSE	11	2, 4, 7, 12, 16, 20, 23, 24, 25, 30, 37
+hobbiesReading	hobbiesMusic	TRUE	TRUE	10	1, 6, 14, 18, 19, 31, 33, 36, 39, 42
+hobbiesReading	hobbiesMusic	TRUE	FALSE	12	4, 5, 9, 12, 16, 20, 23, 24, 25, 35, 38, 44
+hobbiesReading	hobbiesMusic	FALSE	TRUE	12	3, 8, 10, 11, 13, 21, 22, 26, 27, 32, 40, 43
+hobbiesReading	hobbiesMusic	FALSE	FALSE	10	2, 7, 15, 17, 28, 29, 30, 34, 37, 41

@@ -1,0 +1,46 @@
+
+TEST CASES
+case	feedbackRating	feedbackComment	submitAnotherFormAfterFeedback	pairings
+1	3	test feedback comment	TRUE	3
+2	3	empty	FALSE	3
+3	2	test feedback comment	FALSE	3
+4	2	empty	TRUE	3
+5	1	test feedback comment	TRUE	2
+6	1	empty	FALSE	2
+7	4	test feedback comment	FALSE	2
+8	4	empty	TRUE	2
+9	5	test feedback comment	TRUE	2
+10	5	empty	FALSE	2
+11	empty	test feedback comment	FALSE	2
+12	empty	empty	TRUE	2
+
+PAIRING DETAILS
+var1	var2	value1	value2	appearances	cases
+feedbackRating	feedbackComment	3	test feedback comment	1	1
+feedbackRating	feedbackComment	3	empty	1	2
+feedbackRating	feedbackComment	2	test feedback comment	1	3
+feedbackRating	feedbackComment	2	empty	1	4
+feedbackRating	feedbackComment	1	test feedback comment	1	5
+feedbackRating	feedbackComment	1	empty	1	6
+feedbackRating	feedbackComment	4	test feedback comment	1	7
+feedbackRating	feedbackComment	4	empty	1	8
+feedbackRating	feedbackComment	5	test feedback comment	1	9
+feedbackRating	feedbackComment	5	empty	1	10
+feedbackRating	feedbackComment	empty	test feedback comment	1	11
+feedbackRating	feedbackComment	empty	empty	1	12
+feedbackRating	submitAnotherFormAfterFeedback	3	TRUE	1	1
+feedbackRating	submitAnotherFormAfterFeedback	3	FALSE	1	2
+feedbackRating	submitAnotherFormAfterFeedback	2	TRUE	1	4
+feedbackRating	submitAnotherFormAfterFeedback	2	FALSE	1	3
+feedbackRating	submitAnotherFormAfterFeedback	1	TRUE	1	5
+feedbackRating	submitAnotherFormAfterFeedback	1	FALSE	1	6
+feedbackRating	submitAnotherFormAfterFeedback	4	TRUE	1	8
+feedbackRating	submitAnotherFormAfterFeedback	4	FALSE	1	7
+feedbackRating	submitAnotherFormAfterFeedback	5	TRUE	1	9
+feedbackRating	submitAnotherFormAfterFeedback	5	FALSE	1	10
+feedbackRating	submitAnotherFormAfterFeedback	empty	TRUE	1	12
+feedbackRating	submitAnotherFormAfterFeedback	empty	FALSE	1	11
+feedbackComment	submitAnotherFormAfterFeedback	test feedback comment	TRUE	3	1, 5, 9
+feedbackComment	submitAnotherFormAfterFeedback	test feedback comment	FALSE	3	3, 7, 11
+feedbackComment	submitAnotherFormAfterFeedback	empty	TRUE	3	4, 8, 12
+feedbackComment	submitAnotherFormAfterFeedback	empty	FALSE	3	2, 6, 10
