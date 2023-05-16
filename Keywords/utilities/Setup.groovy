@@ -22,8 +22,7 @@ import com.kms.katalon.core.util.KeywordUtil
 import internal.GlobalVariable
 
 public class Setup {
-//	String url='https://go.gov.sg/gt-qe'
-	String url='https://form.gov.sg/64532b2493ceeb0012c6354f'
+	String url='https://go.gov.sg/gt-qe'
 	String technicalTestFormTitle='Object Repository/Technical Test Form Page/Technical Test Form Title'
 	@Keyword
 	def testCaseSetup() {
